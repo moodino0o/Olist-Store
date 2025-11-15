@@ -1,0 +1,5001 @@
+,0,1
+0,Wrong Item,Missing Items
+1,Positive,Others
+2,Positive,Others
+3,Positive,Missing Items
+4,Company,Others
+5,Positive,Delivery
+6,Delivery,Positive
+7,Positive,Others
+8,Positive,Others
+9,Positive,Delivery
+10,Positive,Others
+11,Positive,Others
+12,Positive,Company
+13,Positive,Company
+14,Positive,Others
+15,Positive,Delivery
+16,Positive,Company
+17,Delivery,Positive
+18,Positive,Delivery
+19,Deffect,Wrong Item
+20,Positive,Others
+21,Positive,Others
+22,Positive,Deffect
+23,Missing Items,Positive
+24,Missing Items,Deffect
+25,Positive,Delivery
+26,Positive,Deffect
+27,Positive,Others
+28,Positive,Deffect
+29,Positive,Deffect
+30,Positive,Deffect
+31,Positive,Delivery
+32,Positive,Delivery
+33,Positive,Others
+34,Positive,Delivery
+35,Positive,Company
+36,Positive,Delivery
+37,Positive,Delivery
+38,Positive,Delivery
+39,Positive,Delivery
+40,Positive,Delivery
+41,Positive,Company
+42,Positive,Delivery
+43,Positive,Deffect
+44,Positive,Company
+45,Positive,Others
+46,Positive,Company
+47,Delivery,Positive
+48,Positive,Delivery
+49,Positive,Company
+50,Positive,Delivery
+51,Positive,Delivery
+52,Positive,Others
+53,Delivery,Positive
+54,Positive,Delivery
+55,Positive,Delivery
+56,Positive,Delivery
+57,Delivery,Positive
+58,Deffect,Positive
+59,Deffect,Positive
+60,Deffect,Positive
+61,Deffect,Positive
+62,Deffect,Positive
+63,Deffect,Positive
+64,Deffect,Positive
+65,Deffect,Positive
+66,Deffect,Positive
+67,Deffect,Positive
+68,Deffect,Positive
+69,Deffect,Positive
+70,Deffect,Positive
+71,Deffect,Positive
+72,Deffect,Positive
+73,Deffect,Positive
+74,Positive,Others
+75,Positive,Company
+76,Positive,Delivery
+77,Positive,Company
+78,Positive,Others
+79,Positive,Others
+80,Delivery,Positive
+81,Positive,Others
+82,Positive,Missing Items
+83,Positive,Company
+84,Positive,Delivery
+85,Missing Items,Wrong Item
+86,Missing Items,Wrong Item
+87,Missing Items,Wrong Item
+88,Positive,Others
+89,Missing Items,Wrong Item
+90,Positive,Others
+91,Delivery,Positive
+92,Missing Items,Wrong Item
+93,Positive,Delivery
+94,Wrong Item,Missing Items
+95,Wrong Item,Missing Items
+96,Delivery,Positive
+97,Missing Items,Deffect
+98,Missing Items,Delivery
+99,Deffect,Delivery
+100,Missing Items,Deffect
+101,Missing Items,Wrong Item
+102,Delivery,Missing Items
+103,Missing Items,Wrong Item
+104,Missing Items,Wrong Item
+105,Delivery,Positive
+106,Positive,Delivery
+107,Positive,Others
+108,Delivery,Positive
+109,Delivery,Positive
+110,Missing Items,Wrong Item
+111,Wrong Item,Deffect
+112,Positive,Company
+113,Delivery,Missing Items
+114,Missing Items,Positive
+115,Company,Positive
+116,Delivery,Company
+117,Missing Items,Wrong Item
+118,Delivery,Positive
+119,Positive,Missing Items
+120,Wrong Item,Missing Items
+121,Positive,Delivery
+122,Positive,Delivery
+123,Delivery,Positive
+124,Positive,Missing Items
+125,Positive,Others
+126,Delivery,Company
+127,Delivery,Deffect
+128,Positive,Others
+129,Positive,Company
+130,Positive,Delivery
+131,Positive,Delivery
+132,Positive,Company
+133,Positive,Company
+134,Positive,Company
+135,Positive,Company
+136,Delivery,Positive
+137,Positive,Company
+138,Positive,Delivery
+139,Positive,Delivery
+140,Positive,Delivery
+141,Positive,Company
+142,Positive,Company
+143,Delivery,Positive
+144,Company,Deffect
+145,Positive,Delivery
+146,Positive,Company
+147,Delivery,Positive
+148,Positive,Company
+149,Positive,Delivery
+150,Positive,Company
+151,Positive,Company
+152,Positive,Company
+153,Positive,Deffect
+154,Positive,Missing Items
+155,Company,Positive
+156,Company,Positive
+157,Missing Items,Deffect
+158,Deffect,Wrong Item
+159,Company,Others
+160,Delivery,Company
+161,Delivery,Company
+162,Delivery,Positive
+163,Positive,Company
+164,Delivery,Positive
+165,Positive,Deffect
+166,Delivery,Positive
+167,Positive,Company
+168,Missing Items,Delivery
+169,Positive,Company
+170,Delivery,Company
+171,Deffect,Wrong Item
+172,Wrong Item,Delivery
+173,Deffect,Wrong Item
+174,Missing Items,Wrong Item
+175,Company,Deffect
+176,Positive,Company
+177,Company,Missing Items
+178,Company,Positive
+179,Company,Delivery
+180,Company,Wrong Item
+181,Missing Items,Company
+182,Positive,Company
+183,Positive,Company
+184,Positive,Company
+185,Positive,Company
+186,Positive,Company
+187,Positive,Company
+188,Positive,Company
+189,Positive,Company
+190,Positive,Company
+191,Delivery,Positive
+192,Wrong Item,Deffect
+193,Positive,Company
+194,Delivery,Others
+195,Positive,Delivery
+196,Positive,Company
+197,Positive,Company
+198,Positive,Delivery
+199,Positive,Delivery
+200,Positive,Others
+201,Positive,Delivery
+202,Positive,Delivery
+203,Positive,Company
+204,Positive,Others
+205,Positive,Delivery
+206,Positive,Delivery
+207,Positive,Others
+208,Positive,Delivery
+209,Delivery,Positive
+210,Positive,Company
+211,Positive,Company
+212,Company,Delivery
+213,Positive,Company
+214,Positive,Deffect
+215,Wrong Item,Deffect
+216,Wrong Item,Delivery
+217,Delivery,Positive
+218,Missing Items,Deffect
+219,Positive,Delivery
+220,Company,Delivery
+221,Positive,Company
+222,Positive,Company
+223,Positive,Company
+224,Positive,Delivery
+225,Positive,Company
+226,Positive,Others
+227,Wrong Item,Delivery
+228,Positive,Delivery
+229,Positive,Delivery
+230,Positive,Company
+231,Positive,Missing Items
+232,Positive,Company
+233,Deffect,Wrong Item
+234,Positive,Company
+235,Positive,Company
+236,Positive,Company
+237,Delivery,Positive
+238,Positive,Company
+239,Delivery,Company
+240,Delivery,Positive
+241,Delivery,Company
+242,Delivery,Company
+243,Delivery,Company
+244,Company,Positive
+245,Delivery,Positive
+246,Positive,Company
+247,Positive,Company
+248,Company,Missing Items
+249,Company,Delivery
+250,Positive,Company
+251,Delivery,Positive
+252,Company,Positive
+253,Delivery,Others
+254,Delivery,Positive
+255,Company,Positive
+256,Delivery,Company
+257,Delivery,Positive
+258,Delivery,Positive
+259,Positive,Company
+260,Positive,Delivery
+261,Positive,Delivery
+262,Delivery,Positive
+263,Positive,Company
+264,Company,Positive
+265,Positive,Company
+266,Positive,Company
+267,Positive,Company
+268,Positive,Company
+269,Positive,Company
+270,Positive,Company
+271,Positive,Company
+272,Positive,Company
+273,Positive,Company
+274,Company,Positive
+275,Company,Missing Items
+276,Positive,Company
+277,Positive,Company
+278,Delivery,Company
+279,Positive,Delivery
+280,Company,Others
+281,Company,Positive
+282,Positive,Company
+283,Positive,Company
+284,Positive,Company
+285,Positive,Others
+286,Positive,Company
+287,Positive,Delivery
+288,Positive,Company
+289,Positive,Delivery
+290,Company,Delivery
+291,Positive,Company
+292,Company,Positive
+293,Company,Positive
+294,Positive,Delivery
+295,Positive,Company
+296,Positive,Company
+297,Positive,Company
+298,Positive,Delivery
+299,Delivery,Positive
+300,Delivery,Positive
+301,Positive,Delivery
+302,Delivery,Company
+303,Wrong Item,Others
+304,Others,Missing Items
+305,Deffect,Delivery
+306,Positive,Company
+307,Delivery,Deffect
+308,Deffect,Missing Items
+309,Positive,Others
+310,Positive,Others
+311,Delivery,Positive
+312,Positive,Delivery
+313,Positive,Delivery
+314,Positive,Others
+315,Positive,Delivery
+316,Positive,Delivery
+317,Positive,Delivery
+318,Positive,Others
+319,Positive,Others
+320,Positive,Others
+321,Positive,Deffect
+322,Positive,Others
+323,Positive,Others
+324,Positive,Company
+325,Missing Items,Positive
+326,Positive,Delivery
+327,Positive,Others
+328,Positive,Missing Items
+329,Positive,Deffect
+330,Positive,Others
+331,Positive,Others
+332,Positive,Delivery
+333,Positive,Others
+334,Delivery,Missing Items
+335,Positive,Others
+336,Positive,Others
+337,Positive,Others
+338,Positive,Others
+339,Positive,Others
+340,Positive,Others
+341,Positive,Others
+342,Positive,Delivery
+343,Delivery,Positive
+344,Positive,Others
+345,Positive,Others
+346,Positive,Delivery
+347,Positive,Delivery
+348,Positive,Missing Items
+349,Positive,Others
+350,Positive,Delivery
+351,Positive,Delivery
+352,Positive,Missing Items
+353,Positive,Missing Items
+354,Positive,Missing Items
+355,Positive,Others
+356,Positive,Others
+357,Positive,Delivery
+358,Positive,Delivery
+359,Positive,Others
+360,Positive,Company
+361,Delivery,Positive
+362,Positive,Missing Items
+363,Positive,Delivery
+364,Positive,Others
+365,Positive,Delivery
+366,Positive,Others
+367,Positive,Others
+368,Positive,Others
+369,Positive,Others
+370,Positive,Delivery
+371,Positive,Others
+372,Positive,Others
+373,Positive,Missing Items
+374,Delivery,Positive
+375,Positive,Others
+376,Positive,Deffect
+377,Positive,Others
+378,Positive,Others
+379,Positive,Delivery
+380,Positive,Others
+381,Positive,Others
+382,Delivery,Positive
+383,Positive,Others
+384,Positive,Others
+385,Positive,Others
+386,Positive,Others
+387,Positive,Delivery
+388,Positive,Missing Items
+389,Positive,Others
+390,Positive,Delivery
+391,Positive,Others
+392,Positive,Delivery
+393,Positive,Others
+394,Positive,Others
+395,Positive,Others
+396,Positive,Delivery
+397,Positive,Others
+398,Positive,Missing Items
+399,Positive,Others
+400,Positive,Others
+401,Positive,Others
+402,Positive,Others
+403,Positive,Delivery
+404,Positive,Delivery
+405,Positive,Missing Items
+406,Positive,Deffect
+407,Positive,Others
+408,Positive,Others
+409,Missing Items,Positive
+410,Delivery,Positive
+411,Delivery,Positive
+412,Missing Items,Positive
+413,Positive,Delivery
+414,Positive,Wrong Item
+415,Positive,Others
+416,Positive,Others
+417,Positive,Delivery
+418,Positive,Missing Items
+419,Positive,Delivery
+420,Positive,Others
+421,Positive,Delivery
+422,Positive,Others
+423,Positive,Delivery
+424,Positive,Missing Items
+425,Delivery,Positive
+426,Positive,Missing Items
+427,Positive,Delivery
+428,Positive,Others
+429,Positive,Others
+430,Delivery,Positive
+431,Positive,Missing Items
+432,Positive,Others
+433,Positive,Others
+434,Positive,Missing Items
+435,Positive,Delivery
+436,Delivery,Positive
+437,Positive,Others
+438,Positive,Missing Items
+439,Positive,Company
+440,Positive,Delivery
+441,Positive,Others
+442,Positive,Others
+443,Positive,Delivery
+444,Positive,Delivery
+445,Positive,Delivery
+446,Delivery,Positive
+447,Positive,Missing Items
+448,Positive,Others
+449,Positive,Missing Items
+450,Positive,Others
+451,Positive,Others
+452,Positive,Delivery
+453,Positive,Missing Items
+454,Missing Items,Positive
+455,Missing Items,Delivery
+456,Delivery,Others
+457,Delivery,Missing Items
+458,Delivery,Positive
+459,Positive,Missing Items
+460,Positive,Others
+461,Positive,Others
+462,Wrong Item,Others
+463,Positive,Missing Items
+464,Positive,Delivery
+465,Delivery,Positive
+466,Wrong Item,Missing Items
+467,Positive,Others
+468,Missing Items,Wrong Item
+469,Delivery,Missing Items
+470,Delivery,Missing Items
+471,Delivery,Missing Items
+472,Positive,Others
+473,Positive,Others
+474,Positive,Others
+475,Delivery,Positive
+476,Positive,Others
+477,Positive,Others
+478,Positive,Others
+479,Positive,Delivery
+480,Deffect,Wrong Item
+481,Company,Positive
+482,Deffect,Wrong Item
+483,Missing Items,Delivery
+484,Positive,Delivery
+485,Positive,Delivery
+486,Delivery,Missing Items
+487,Positive,Company
+488,Company,Missing Items
+489,Missing Items,Company
+490,Positive,Company
+491,Positive,Company
+492,Positive,Company
+493,Positive,Company
+494,Company,Positive
+495,Positive,Company
+496,Positive,Company
+497,Positive,Company
+498,Delivery,Company
+499,Positive,Company
+500,Delivery,Positive
+501,Positive,Deffect
+502,Positive,Delivery
+503,Positive,Others
+504,Positive,Others
+505,Positive,Others
+506,Positive,Others
+507,Deffect,Missing Items
+508,Positive,Delivery
+509,Deffect,Missing Items
+510,Wrong Item,Missing Items
+511,Wrong Item,Missing Items
+512,Positive,Others
+513,Positive,Others
+514,Delivery,Positive
+515,Wrong Item,Delivery
+516,Company,Positive
+517,Positive,Company
+518,Delivery,Positive
+519,Delivery,Missing Items
+520,Positive,Others
+521,Wrong Item,Missing Items
+522,Others,Missing Items
+523,Company,Positive
+524,Missing Items,Wrong Item
+525,Missing Items,Delivery
+526,Positive,Missing Items
+527,Positive,Others
+528,Delivery,Positive
+529,Positive,Delivery
+530,Missing Items,Deffect
+531,Positive,Wrong Item
+532,Delivery,Company
+533,Wrong Item,Missing Items
+534,Positive,Others
+535,Positive,Missing Items
+536,Delivery,Positive
+537,Others,Wrong Item
+538,Positive,Delivery
+539,Delivery,Positive
+540,Positive,Delivery
+541,Delivery,Positive
+542,Positive,Delivery
+543,Company,Positive
+544,Missing Items,Positive
+545,Company,Positive
+546,Positive,Delivery
+547,Wrong Item,Missing Items
+548,Wrong Item,Missing Items
+549,Wrong Item,Deffect
+550,Wrong Item,Company
+551,Delivery,Missing Items
+552,Positive,Missing Items
+553,Missing Items,Deffect
+554,Missing Items,Deffect
+555,Wrong Item,Missing Items
+556,Delivery,Positive
+557,Delivery,Positive
+558,Delivery,Positive
+559,Missing Items,Delivery
+560,Positive,Company
+561,Positive,Delivery
+562,Others,Delivery
+563,Missing Items,Wrong Item
+564,Others,Delivery
+565,Positive,Delivery
+566,Others,Deffect
+567,Wrong Item,Deffect
+568,Wrong Item,Missing Items
+569,Delivery,Missing Items
+570,Delivery,Missing Items
+571,Delivery,Missing Items
+572,Delivery,Missing Items
+573,Delivery,Missing Items
+574,Missing Items,Wrong Item
+575,Missing Items,Deffect
+576,Missing Items,Wrong Item
+577,Missing Items,Wrong Item
+578,Missing Items,Company
+579,Missing Items,Positive
+580,Missing Items,Positive
+581,Missing Items,Wrong Item
+582,Missing Items,Others
+583,Company,Delivery
+584,Delivery,Missing Items
+585,Missing Items,Delivery
+586,Positive,Company
+587,Positive,Delivery
+588,Positive,Company
+589,Delivery,Positive
+590,Positive,Others
+591,Deffect,Missing Items
+592,Missing Items,Delivery
+593,Positive,Missing Items
+594,Positive,Others
+595,Positive,Delivery
+596,Missing Items,Deffect
+597,Positive,Company
+598,Positive,Company
+599,Deffect,Missing Items
+600,Delivery,Missing Items
+601,Missing Items,Positive
+602,Delivery,Others
+603,Others,Delivery
+604,Others,Wrong Item
+605,Positive,Delivery
+606,Missing Items,Wrong Item
+607,Delivery,Others
+608,Missing Items,Wrong Item
+609,Missing Items,Others
+610,Delivery,Company
+611,Positive,Company
+612,Missing Items,Wrong Item
+613,Missing Items,Deffect
+614,Missing Items,Wrong Item
+615,Positive,Missing Items
+616,Deffect,Others
+617,Missing Items,Wrong Item
+618,Delivery,Missing Items
+619,Positive,Delivery
+620,Deffect,Missing Items
+621,Positive,Delivery
+622,Others,Deffect
+623,Deffect,Wrong Item
+624,Delivery,Wrong Item
+625,Missing Items,Delivery
+626,Company,Others
+627,Wrong Item,Missing Items
+628,Missing Items,Deffect
+629,Delivery,Others
+630,Positive,Others
+631,Positive,Company
+632,Others,Missing Items
+633,Positive,Company
+634,Positive,Company
+635,Delivery,Positive
+636,Positive,Company
+637,Positive,Others
+638,Positive,Delivery
+639,Delivery,Positive
+640,Positive,Company
+641,Missing Items,Company
+642,Positive,Company
+643,Others,Company
+644,Delivery,Company
+645,Positive,Others
+646,Positive,Others
+647,Missing Items,Deffect
+648,Missing Items,Delivery
+649,Positive,Delivery
+650,Others,Positive
+651,Others,Missing Items
+652,Delivery,Missing Items
+653,Positive,Delivery
+654,Company,Delivery
+655,Company,Positive
+656,Others,Deffect
+657,Positive,Company
+658,Deffect,Wrong Item
+659,Positive,Delivery
+660,Company,Positive
+661,Delivery,Wrong Item
+662,Delivery,Others
+663,Missing Items,Deffect
+664,Delivery,Missing Items
+665,Company,Missing Items
+666,Delivery,Deffect
+667,Others,Missing Items
+668,Missing Items,Delivery
+669,Delivery,Positive
+670,Company,Positive
+671,Positive,Others
+672,Delivery,Positive
+673,Positive,Missing Items
+674,Positive,Missing Items
+675,Positive,Others
+676,Positive,Missing Items
+677,Positive,Others
+678,Missing Items,Others
+679,Positive,Missing Items
+680,Positive,Others
+681,Deffect,Others
+682,Positive,Delivery
+683,Missing Items,Deffect
+684,Missing Items,Others
+685,Wrong Item,Deffect
+686,Delivery,Missing Items
+687,Delivery,Deffect
+688,Positive,Company
+689,Missing Items,Wrong Item
+690,Missing Items,Wrong Item
+691,Missing Items,Others
+692,Others,Positive
+693,Missing Items,Company
+694,Delivery,Missing Items
+695,Positive,Delivery
+696,Missing Items,Wrong Item
+697,Others,Wrong Item
+698,Others,Missing Items
+699,Wrong Item,Deffect
+700,Missing Items,Wrong Item
+701,Delivery,Missing Items
+702,Delivery,Missing Items
+703,Missing Items,Delivery
+704,Missing Items,Delivery
+705,Deffect,Delivery
+706,Wrong Item,Company
+707,Others,Positive
+708,Positive,Others
+709,Delivery,Positive
+710,Positive,Delivery
+711,Delivery,Others
+712,Missing Items,Others
+713,Others,Company
+714,Others,Wrong Item
+715,Positive,Company
+716,Wrong Item,Missing Items
+717,Missing Items,Others
+718,Positive,Others
+719,Positive,Delivery
+720,Delivery,Positive
+721,Positive,Company
+722,Delivery,Positive
+723,Deffect,Wrong Item
+724,Missing Items,Delivery
+725,Delivery,Wrong Item
+726,Delivery,Deffect
+727,Delivery,Others
+728,Delivery,Wrong Item
+729,Delivery,Positive
+730,Positive,Others
+731,Positive,Others
+732,Wrong Item,Deffect
+733,Deffect,Missing Items
+734,Wrong Item,Deffect
+735,Delivery,Missing Items
+736,Delivery,Deffect
+737,Delivery,Deffect
+738,Missing Items,Wrong Item
+739,Company,Deffect
+740,Deffect,Wrong Item
+741,Deffect,Wrong Item
+742,Deffect,Missing Items
+743,Wrong Item,Deffect
+744,Missing Items,Delivery
+745,Missing Items,Deffect
+746,Positive,Missing Items
+747,Delivery,Deffect
+748,Missing Items,Delivery
+749,Missing Items,Delivery
+750,Missing Items,Delivery
+751,Missing Items,Wrong Item
+752,Missing Items,Delivery
+753,Deffect,Wrong Item
+754,Delivery,Company
+755,Delivery,Wrong Item
+756,Wrong Item,Delivery
+757,Missing Items,Delivery
+758,Positive,Missing Items
+759,Wrong Item,Missing Items
+760,Delivery,Wrong Item
+761,Delivery,Others
+762,Company,Delivery
+763,Missing Items,Deffect
+764,Wrong Item,Deffect
+765,Wrong Item,Deffect
+766,Wrong Item,Delivery
+767,Wrong Item,Missing Items
+768,Missing Items,Wrong Item
+769,Delivery,Deffect
+770,Wrong Item,Missing Items
+771,Missing Items,Wrong Item
+772,Wrong Item,Deffect
+773,Wrong Item,Deffect
+774,Deffect,Wrong Item
+775,Wrong Item,Deffect
+776,Wrong Item,Missing Items
+777,Wrong Item,Missing Items
+778,Delivery,Positive
+779,Missing Items,Wrong Item
+780,Wrong Item,Delivery
+781,Wrong Item,Missing Items
+782,Missing Items,Wrong Item
+783,Deffect,Wrong Item
+784,Deffect,Wrong Item
+785,Delivery,Deffect
+786,Company,Others
+787,Missing Items,Wrong Item
+788,Delivery,Wrong Item
+789,Missing Items,Wrong Item
+790,Wrong Item,Deffect
+791,Missing Items,Delivery
+792,Missing Items,Deffect
+793,Delivery,Missing Items
+794,Deffect,Positive
+795,Missing Items,Delivery
+796,Missing Items,Delivery
+797,Missing Items,Wrong Item
+798,Wrong Item,Missing Items
+799,Missing Items,Wrong Item
+800,Missing Items,Wrong Item
+801,Delivery,Missing Items
+802,Wrong Item,Missing Items
+803,Missing Items,Delivery
+804,Missing Items,Deffect
+805,Missing Items,Deffect
+806,Missing Items,Deffect
+807,Positive,Wrong Item
+808,Wrong Item,Missing Items
+809,Missing Items,Delivery
+810,Delivery,Missing Items
+811,Delivery,Others
+812,Missing Items,Wrong Item
+813,Wrong Item,Deffect
+814,Delivery,Missing Items
+815,Delivery,Missing Items
+816,Delivery,Others
+817,Wrong Item,Company
+818,Wrong Item,Deffect
+819,Others,Company
+820,Missing Items,Deffect
+821,Missing Items,Company
+822,Missing Items,Delivery
+823,Missing Items,Delivery
+824,Missing Items,Company
+825,Missing Items,Company
+826,Others,Missing Items
+827,Wrong Item,Company
+828,Delivery,Deffect
+829,Wrong Item,Deffect
+830,Wrong Item,Missing Items
+831,Wrong Item,Deffect
+832,Wrong Item,Missing Items
+833,Deffect,Missing Items
+834,Delivery,Positive
+835,Delivery,Positive
+836,Delivery,Positive
+837,Positive,Delivery
+838,Others,Positive
+839,Others,Delivery
+840,Positive,Company
+841,Positive,Others
+842,Others,Positive
+843,Delivery,Positive
+844,Delivery,Positive
+845,Delivery,Positive
+846,Company,Positive
+847,Others,Delivery
+848,Positive,Company
+849,Company,Positive
+850,Positive,Delivery
+851,Company,Positive
+852,Positive,Company
+853,Positive,Company
+854,Positive,Company
+855,Missing Items,Wrong Item
+856,Positive,Others
+857,Delivery,Positive
+858,Delivery,Positive
+859,Delivery,Missing Items
+860,Missing Items,Wrong Item
+861,Missing Items,Positive
+862,Delivery,Positive
+863,Company,Positive
+864,Positive,Delivery
+865,Wrong Item,Deffect
+866,Delivery,Company
+867,Others,Company
+868,Positive,Others
+869,Missing Items,Wrong Item
+870,Delivery,Positive
+871,Positive,Missing Items
+872,Wrong Item,Deffect
+873,Company,Wrong Item
+874,Positive,Others
+875,Positive,Others
+876,Positive,Others
+877,Positive,Others
+878,Positive,Delivery
+879,Delivery,Positive
+880,Positive,Delivery
+881,Missing Items,Positive
+882,Missing Items,Delivery
+883,Missing Items,Wrong Item
+884,Missing Items,Wrong Item
+885,Wrong Item,Company
+886,Delivery,Missing Items
+887,Delivery,Deffect
+888,Missing Items,Delivery
+889,Positive,Company
+890,Positive,Missing Items
+891,Positive,Company
+892,Company,Deffect
+893,Missing Items,Others
+894,Delivery,Deffect
+895,Company,Positive
+896,Deffect,Wrong Item
+897,Delivery,Others
+898,Delivery,Missing Items
+899,Positive,Others
+900,Delivery,Missing Items
+901,Delivery,Positive
+902,Delivery,Positive
+903,Delivery,Missing Items
+904,Deffect,Wrong Item
+905,Missing Items,Delivery
+906,Delivery,Positive
+907,Delivery,Positive
+908,Delivery,Others
+909,Delivery,Missing Items
+910,Positive,Wrong Item
+911,Missing Items,Delivery
+912,Delivery,Positive
+913,Deffect,Missing Items
+914,Missing Items,Wrong Item
+915,Wrong Item,Deffect
+916,Delivery,Positive
+917,Delivery,Missing Items
+918,Delivery,Missing Items
+919,Delivery,Missing Items
+920,Wrong Item,Delivery
+921,Delivery,Others
+922,Delivery,Wrong Item
+923,Delivery,Missing Items
+924,Delivery,Missing Items
+925,Deffect,Wrong Item
+926,Wrong Item,Deffect
+927,Deffect,Others
+928,Deffect,Missing Items
+929,Deffect,Missing Items
+930,Wrong Item,Deffect
+931,Missing Items,Positive
+932,Missing Items,Positive
+933,Positive,Others
+934,Positive,Deffect
+935,Positive,Missing Items
+936,Delivery,Positive
+937,Positive,Others
+938,Delivery,Positive
+939,Delivery,Deffect
+940,Positive,Deffect
+941,Delivery,Missing Items
+942,Positive,Company
+943,Positive,Delivery
+944,Delivery,Deffect
+945,Positive,Delivery
+946,Missing Items,Delivery
+947,Delivery,Company
+948,Wrong Item,Missing Items
+949,Positive,Missing Items
+950,Missing Items,Deffect
+951,Delivery,Positive
+952,Positive,Missing Items
+953,Positive,Company
+954,Positive,Delivery
+955,Delivery,Positive
+956,Positive,Delivery
+957,Positive,Others
+958,Positive,Others
+959,Positive,Others
+960,Positive,Company
+961,Delivery,Positive
+962,Positive,Delivery
+963,Positive,Wrong Item
+964,Positive,Company
+965,Positive,Delivery
+966,Company,Positive
+967,Positive,Company
+968,Positive,Company
+969,Positive,Company
+970,Positive,Others
+971,Positive,Others
+972,Positive,Delivery
+973,Positive,Company
+974,Positive,Others
+975,Positive,Company
+976,Positive,Delivery
+977,Positive,Others
+978,Positive,Others
+979,Positive,Delivery
+980,Positive,Company
+981,Positive,Delivery
+982,Positive,Company
+983,Positive,Company
+984,Positive,Company
+985,Positive,Company
+986,Positive,Others
+987,Positive,Company
+988,Positive,Delivery
+989,Positive,Company
+990,Positive,Company
+991,Delivery,Positive
+992,Positive,Others
+993,Wrong Item,Deffect
+994,Positive,Company
+995,Company,Positive
+996,Positive,Company
+997,Positive,Company
+998,Positive,Others
+999,Positive,Delivery
+1000,Company,Positive
+1001,Wrong Item,Company
+1002,Company,Positive
+1003,Positive,Company
+1004,Wrong Item,Delivery
+1005,Positive,Company
+1006,Company,Positive
+1007,Company,Positive
+1008,Positive,Company
+1009,Positive,Delivery
+1010,Positive,Company
+1011,Positive,Company
+1012,Positive,Company
+1013,Positive,Others
+1014,Positive,Others
+1015,Positive,Delivery
+1016,Positive,Others
+1017,Positive,Delivery
+1018,Positive,Others
+1019,Positive,Delivery
+1020,Positive,Others
+1021,Positive,Others
+1022,Delivery,Positive
+1023,Positive,Delivery
+1024,Positive,Delivery
+1025,Positive,Others
+1026,Positive,Company
+1027,Positive,Missing Items
+1028,Positive,Deffect
+1029,Positive,Others
+1030,Positive,Others
+1031,Positive,Others
+1032,Positive,Others
+1033,Positive,Others
+1034,Positive,Others
+1035,Positive,Others
+1036,Positive,Others
+1037,Positive,Others
+1038,Positive,Others
+1039,Positive,Others
+1040,Positive,Missing Items
+1041,Positive,Delivery
+1042,Positive,Others
+1043,Positive,Others
+1044,Positive,Delivery
+1045,Positive,Company
+1046,Positive,Company
+1047,Positive,Delivery
+1048,Positive,Deffect
+1049,Positive,Others
+1050,Positive,Others
+1051,Positive,Missing Items
+1052,Delivery,Positive
+1053,Positive,Delivery
+1054,Positive,Delivery
+1055,Delivery,Positive
+1056,Positive,Delivery
+1057,Positive,Others
+1058,Positive,Delivery
+1059,Delivery,Positive
+1060,Positive,Others
+1061,Positive,Others
+1062,Positive,Company
+1063,Positive,Company
+1064,Positive,Others
+1065,Delivery,Positive
+1066,Positive,Delivery
+1067,Positive,Others
+1068,Positive,Others
+1069,Positive,Others
+1070,Positive,Others
+1071,Positive,Company
+1072,Positive,Delivery
+1073,Positive,Delivery
+1074,Positive,Delivery
+1075,Positive,Delivery
+1076,Positive,Company
+1077,Positive,Delivery
+1078,Positive,Others
+1079,Positive,Company
+1080,Positive,Others
+1081,Positive,Others
+1082,Positive,Delivery
+1083,Positive,Delivery
+1084,Positive,Company
+1085,Positive,Company
+1086,Positive,Delivery
+1087,Positive,Company
+1088,Positive,Others
+1089,Positive,Others
+1090,Positive,Company
+1091,Positive,Delivery
+1092,Positive,Delivery
+1093,Positive,Delivery
+1094,Positive,Others
+1095,Positive,Others
+1096,Positive,Delivery
+1097,Delivery,Positive
+1098,Positive,Delivery
+1099,Positive,Delivery
+1100,Positive,Others
+1101,Positive,Others
+1102,Positive,Company
+1103,Positive,Company
+1104,Deffect,Wrong Item
+1105,Positive,Others
+1106,Positive,Others
+1107,Positive,Delivery
+1108,Positive,Others
+1109,Positive,Delivery
+1110,Positive,Others
+1111,Positive,Delivery
+1112,Positive,Delivery
+1113,Positive,Missing Items
+1114,Positive,Delivery
+1115,Positive,Delivery
+1116,Positive,Others
+1117,Positive,Others
+1118,Positive,Others
+1119,Positive,Others
+1120,Positive,Others
+1121,Positive,Others
+1122,Positive,Others
+1123,Positive,Others
+1124,Positive,Others
+1125,Positive,Deffect
+1126,Positive,Delivery
+1127,Positive,Delivery
+1128,Positive,Company
+1129,Positive,Delivery
+1130,Positive,Delivery
+1131,Delivery,Positive
+1132,Positive,Delivery
+1133,Positive,Others
+1134,Positive,Delivery
+1135,Positive,Missing Items
+1136,Positive,Delivery
+1137,Missing Items,Positive
+1138,Positive,Others
+1139,Positive,Delivery
+1140,Positive,Missing Items
+1141,Positive,Missing Items
+1142,Positive,Company
+1143,Positive,Others
+1144,Positive,Others
+1145,Positive,Others
+1146,Positive,Others
+1147,Positive,Delivery
+1148,Positive,Delivery
+1149,Positive,Delivery
+1150,Delivery,Positive
+1151,Positive,Delivery
+1152,Positive,Company
+1153,Positive,Delivery
+1154,Others,Missing Items
+1155,Positive,Delivery
+1156,Positive,Others
+1157,Delivery,Positive
+1158,Delivery,Positive
+1159,Delivery,Positive
+1160,Delivery,Positive
+1161,Delivery,Positive
+1162,Positive,Delivery
+1163,Positive,Missing Items
+1164,Positive,Delivery
+1165,Positive,Delivery
+1166,Positive,Delivery
+1167,Positive,Delivery
+1168,Delivery,Positive
+1169,Positive,Others
+1170,Positive,Others
+1171,Positive,Delivery
+1172,Positive,Delivery
+1173,Positive,Others
+1174,Positive,Missing Items
+1175,Delivery,Positive
+1176,Positive,Others
+1177,Positive,Others
+1178,Positive,Others
+1179,Positive,Others
+1180,Positive,Others
+1181,Positive,Company
+1182,Positive,Delivery
+1183,Positive,Delivery
+1184,Positive,Delivery
+1185,Positive,Delivery
+1186,Positive,Others
+1187,Positive,Others
+1188,Positive,Company
+1189,Positive,Others
+1190,Positive,Others
+1191,Positive,Delivery
+1192,Positive,Delivery
+1193,Positive,Delivery
+1194,Positive,Others
+1195,Positive,Delivery
+1196,Positive,Company
+1197,Positive,Others
+1198,Positive,Delivery
+1199,Positive,Deffect
+1200,Positive,Deffect
+1201,Positive,Delivery
+1202,Positive,Delivery
+1203,Delivery,Positive
+1204,Positive,Others
+1205,Positive,Company
+1206,Positive,Delivery
+1207,Positive,Delivery
+1208,Positive,Missing Items
+1209,Positive,Missing Items
+1210,Positive,Others
+1211,Positive,Delivery
+1212,Delivery,Positive
+1213,Delivery,Positive
+1214,Positive,Delivery
+1215,Positive,Delivery
+1216,Positive,Others
+1217,Positive,Company
+1218,Delivery,Positive
+1219,Positive,Others
+1220,Positive,Missing Items
+1221,Positive,Company
+1222,Positive,Others
+1223,Positive,Delivery
+1224,Positive,Company
+1225,Positive,Company
+1226,Positive,Delivery
+1227,Positive,Missing Items
+1228,Positive,Missing Items
+1229,Positive,Company
+1230,Delivery,Positive
+1231,Positive,Others
+1232,Delivery,Positive
+1233,Positive,Missing Items
+1234,Positive,Delivery
+1235,Positive,Delivery
+1236,Positive,Missing Items
+1237,Positive,Delivery
+1238,Positive,Company
+1239,Positive,Others
+1240,Positive,Delivery
+1241,Positive,Delivery
+1242,Positive,Delivery
+1243,Positive,Delivery
+1244,Positive,Delivery
+1245,Positive,Company
+1246,Positive,Missing Items
+1247,Positive,Delivery
+1248,Positive,Company
+1249,Positive,Company
+1250,Positive,Others
+1251,Positive,Others
+1252,Positive,Company
+1253,Positive,Others
+1254,Positive,Delivery
+1255,Positive,Others
+1256,Positive,Company
+1257,Positive,Others
+1258,Positive,Delivery
+1259,Positive,Others
+1260,Positive,Others
+1261,Positive,Wrong Item
+1262,Wrong Item,Positive
+1263,Positive,Company
+1264,Positive,Company
+1265,Positive,Company
+1266,Positive,Company
+1267,Positive,Company
+1268,Delivery,Positive
+1269,Positive,Delivery
+1270,Positive,Others
+1271,Positive,Company
+1272,Positive,Company
+1273,Positive,Delivery
+1274,Positive,Delivery
+1275,Positive,Others
+1276,Positive,Missing Items
+1277,Positive,Others
+1278,Positive,Delivery
+1279,Positive,Delivery
+1280,Positive,Delivery
+1281,Positive,Company
+1282,Positive,Delivery
+1283,Positive,Delivery
+1284,Positive,Delivery
+1285,Positive,Delivery
+1286,Positive,Company
+1287,Positive,Delivery
+1288,Positive,Delivery
+1289,Positive,Delivery
+1290,Positive,Delivery
+1291,Positive,Delivery
+1292,Positive,Delivery
+1293,Positive,Company
+1294,Positive,Delivery
+1295,Positive,Delivery
+1296,Positive,Others
+1297,Positive,Delivery
+1298,Positive,Delivery
+1299,Positive,Company
+1300,Positive,Company
+1301,Positive,Delivery
+1302,Positive,Company
+1303,Positive,Company
+1304,Positive,Company
+1305,Positive,Company
+1306,Positive,Company
+1307,Positive,Company
+1308,Delivery,Positive
+1309,Positive,Delivery
+1310,Positive,Delivery
+1311,Positive,Missing Items
+1312,Positive,Missing Items
+1313,Positive,Missing Items
+1314,Positive,Company
+1315,Positive,Delivery
+1316,Positive,Delivery
+1317,Positive,Delivery
+1318,Positive,Delivery
+1319,Positive,Delivery
+1320,Positive,Delivery
+1321,Delivery,Positive
+1322,Delivery,Positive
+1323,Positive,Delivery
+1324,Positive,Company
+1325,Positive,Others
+1326,Positive,Delivery
+1327,Positive,Delivery
+1328,Positive,Others
+1329,Company,Positive
+1330,Positive,Others
+1331,Positive,Company
+1332,Positive,Company
+1333,Delivery,Positive
+1334,Positive,Company
+1335,Positive,Others
+1336,Positive,Company
+1337,Positive,Others
+1338,Positive,Delivery
+1339,Positive,Delivery
+1340,Positive,Company
+1341,Positive,Company
+1342,Positive,Delivery
+1343,Positive,Company
+1344,Positive,Missing Items
+1345,Positive,Delivery
+1346,Positive,Others
+1347,Positive,Missing Items
+1348,Positive,Others
+1349,Positive,Delivery
+1350,Delivery,Positive
+1351,Positive,Delivery
+1352,Positive,Company
+1353,Positive,Missing Items
+1354,Positive,Delivery
+1355,Positive,Missing Items
+1356,Positive,Delivery
+1357,Positive,Company
+1358,Positive,Delivery
+1359,Delivery,Positive
+1360,Positive,Deffect
+1361,Positive,Others
+1362,Positive,Company
+1363,Positive,Delivery
+1364,Delivery,Positive
+1365,Positive,Company
+1366,Positive,Company
+1367,Delivery,Positive
+1368,Delivery,Positive
+1369,Positive,Delivery
+1370,Positive,Company
+1371,Positive,Delivery
+1372,Positive,Delivery
+1373,Positive,Company
+1374,Positive,Delivery
+1375,Positive,Delivery
+1376,Positive,Delivery
+1377,Positive,Others
+1378,Positive,Missing Items
+1379,Positive,Delivery
+1380,Positive,Delivery
+1381,Positive,Delivery
+1382,Delivery,Positive
+1383,Positive,Delivery
+1384,Positive,Delivery
+1385,Positive,Delivery
+1386,Positive,Delivery
+1387,Positive,Others
+1388,Positive,Others
+1389,Positive,Others
+1390,Positive,Others
+1391,Positive,Others
+1392,Positive,Company
+1393,Positive,Others
+1394,Positive,Others
+1395,Positive,Delivery
+1396,Positive,Others
+1397,Delivery,Positive
+1398,Positive,Company
+1399,Positive,Deffect
+1400,Positive,Others
+1401,Positive,Others
+1402,Positive,Others
+1403,Positive,Others
+1404,Positive,Others
+1405,Positive,Others
+1406,Positive,Others
+1407,Positive,Others
+1408,Positive,Others
+1409,Positive,Others
+1410,Positive,Others
+1411,Positive,Others
+1412,Positive,Others
+1413,Positive,Others
+1414,Positive,Others
+1415,Positive,Others
+1416,Positive,Others
+1417,Positive,Others
+1418,Positive,Others
+1419,Positive,Others
+1420,Positive,Others
+1421,Positive,Others
+1422,Positive,Others
+1423,Positive,Others
+1424,Positive,Others
+1425,Positive,Others
+1426,Positive,Others
+1427,Positive,Others
+1428,Positive,Others
+1429,Positive,Others
+1430,Positive,Others
+1431,Positive,Others
+1432,Positive,Others
+1433,Positive,Others
+1434,Positive,Others
+1435,Positive,Others
+1436,Positive,Others
+1437,Positive,Company
+1438,Positive,Others
+1439,Positive,Company
+1440,Positive,Delivery
+1441,Positive,Others
+1442,Positive,Others
+1443,Positive,Others
+1444,Positive,Others
+1445,Positive,Others
+1446,Positive,Others
+1447,Positive,Delivery
+1448,Positive,Delivery
+1449,Delivery,Positive
+1450,Positive,Company
+1451,Positive,Others
+1452,Positive,Delivery
+1453,Delivery,Positive
+1454,Delivery,Positive
+1455,Positive,Delivery
+1456,Delivery,Positive
+1457,Positive,Others
+1458,Positive,Others
+1459,Positive,Others
+1460,Positive,Company
+1461,Positive,Others
+1462,Positive,Others
+1463,Positive,Others
+1464,Positive,Delivery
+1465,Positive,Others
+1466,Positive,Delivery
+1467,Positive,Delivery
+1468,Delivery,Positive
+1469,Positive,Delivery
+1470,Positive,Delivery
+1471,Positive,Company
+1472,Positive,Others
+1473,Positive,Company
+1474,Positive,Others
+1475,Positive,Missing Items
+1476,Positive,Company
+1477,Positive,Delivery
+1478,Positive,Delivery
+1479,Positive,Company
+1480,Positive,Company
+1481,Positive,Company
+1482,Positive,Missing Items
+1483,Positive,Missing Items
+1484,Wrong Item,Others
+1485,Positive,Others
+1486,Wrong Item,Missing Items
+1487,Positive,Others
+1488,Positive,Company
+1489,Positive,Delivery
+1490,Positive,Delivery
+1491,Positive,Delivery
+1492,Positive,Missing Items
+1493,Positive,Company
+1494,Positive,Company
+1495,Positive,Missing Items
+1496,Positive,Company
+1497,Positive,Others
+1498,Positive,Company
+1499,Positive,Company
+1500,Positive,Company
+1501,Positive,Company
+1502,Positive,Company
+1503,Positive,Delivery
+1504,Positive,Wrong Item
+1505,Positive,Company
+1506,Positive,Delivery
+1507,Positive,Others
+1508,Positive,Missing Items
+1509,Positive,Missing Items
+1510,Positive,Others
+1511,Positive,Delivery
+1512,Positive,Others
+1513,Positive,Missing Items
+1514,Delivery,Positive
+1515,Delivery,Missing Items
+1516,Positive,Delivery
+1517,Positive,Others
+1518,Positive,Delivery
+1519,Positive,Others
+1520,Positive,Delivery
+1521,Positive,Delivery
+1522,Positive,Delivery
+1523,Positive,Others
+1524,Positive,Delivery
+1525,Positive,Delivery
+1526,Positive,Delivery
+1527,Positive,Others
+1528,Positive,Delivery
+1529,Positive,Delivery
+1530,Positive,Delivery
+1531,Positive,Delivery
+1532,Positive,Others
+1533,Positive,Others
+1534,Positive,Delivery
+1535,Positive,Delivery
+1536,Positive,Deffect
+1537,Positive,Delivery
+1538,Positive,Company
+1539,Positive,Delivery
+1540,Positive,Delivery
+1541,Positive,Delivery
+1542,Positive,Company
+1543,Positive,Others
+1544,Positive,Others
+1545,Positive,Delivery
+1546,Positive,Deffect
+1547,Positive,Company
+1548,Positive,Company
+1549,Positive,Delivery
+1550,Positive,Others
+1551,Positive,Delivery
+1552,Positive,Others
+1553,Positive,Delivery
+1554,Positive,Company
+1555,Positive,Company
+1556,Positive,Company
+1557,Positive,Company
+1558,Positive,Delivery
+1559,Positive,Company
+1560,Positive,Company
+1561,Positive,Company
+1562,Positive,Company
+1563,Positive,Others
+1564,Positive,Delivery
+1565,Positive,Delivery
+1566,Positive,Delivery
+1567,Positive,Delivery
+1568,Positive,Company
+1569,Positive,Company
+1570,Positive,Delivery
+1571,Positive,Delivery
+1572,Positive,Delivery
+1573,Positive,Delivery
+1574,Positive,Delivery
+1575,Positive,Delivery
+1576,Positive,Delivery
+1577,Positive,Delivery
+1578,Positive,Delivery
+1579,Positive,Delivery
+1580,Positive,Delivery
+1581,Positive,Delivery
+1582,Positive,Delivery
+1583,Positive,Delivery
+1584,Positive,Delivery
+1585,Positive,Company
+1586,Positive,Company
+1587,Positive,Delivery
+1588,Positive,Delivery
+1589,Positive,Missing Items
+1590,Positive,Company
+1591,Positive,Others
+1592,Positive,Others
+1593,Positive,Company
+1594,Positive,Delivery
+1595,Positive,Others
+1596,Positive,Company
+1597,Positive,Company
+1598,Positive,Missing Items
+1599,Positive,Others
+1600,Positive,Others
+1601,Positive,Company
+1602,Positive,Delivery
+1603,Positive,Others
+1604,Positive,Company
+1605,Positive,Company
+1606,Positive,Company
+1607,Positive,Delivery
+1608,Positive,Company
+1609,Positive,Company
+1610,Positive,Company
+1611,Positive,Company
+1612,Positive,Company
+1613,Positive,Company
+1614,Positive,Company
+1615,Positive,Company
+1616,Positive,Company
+1617,Positive,Company
+1618,Positive,Company
+1619,Positive,Company
+1620,Positive,Delivery
+1621,Positive,Missing Items
+1622,Positive,Delivery
+1623,Delivery,Positive
+1624,Positive,Others
+1625,Positive,Delivery
+1626,Positive,Others
+1627,Positive,Company
+1628,Positive,Delivery
+1629,Positive,Others
+1630,Positive,Delivery
+1631,Positive,Missing Items
+1632,Positive,Company
+1633,Positive,Delivery
+1634,Positive,Delivery
+1635,Positive,Missing Items
+1636,Positive,Missing Items
+1637,Positive,Delivery
+1638,Delivery,Positive
+1639,Delivery,Positive
+1640,Delivery,Positive
+1641,Delivery,Positive
+1642,Positive,Others
+1643,Positive,Delivery
+1644,Positive,Delivery
+1645,Missing Items,Positive
+1646,Positive,Delivery
+1647,Positive,Missing Items
+1648,Positive,Others
+1649,Positive,Others
+1650,Positive,Delivery
+1651,Positive,Company
+1652,Delivery,Positive
+1653,Positive,Delivery
+1654,Positive,Missing Items
+1655,Positive,Delivery
+1656,Positive,Others
+1657,Positive,Delivery
+1658,Delivery,Positive
+1659,Positive,Delivery
+1660,Positive,Delivery
+1661,Positive,Company
+1662,Positive,Company
+1663,Positive,Company
+1664,Positive,Company
+1665,Positive,Company
+1666,Positive,Company
+1667,Positive,Others
+1668,Positive,Company
+1669,Positive,Company
+1670,Company,Positive
+1671,Positive,Delivery
+1672,Positive,Delivery
+1673,Positive,Company
+1674,Positive,Others
+1675,Positive,Company
+1676,Positive,Company
+1677,Positive,Company
+1678,Positive,Delivery
+1679,Positive,Company
+1680,Positive,Others
+1681,Delivery,Positive
+1682,Positive,Missing Items
+1683,Positive,Company
+1684,Positive,Others
+1685,Positive,Missing Items
+1686,Positive,Delivery
+1687,Delivery,Positive
+1688,Positive,Delivery
+1689,Delivery,Positive
+1690,Positive,Others
+1691,Positive,Company
+1692,Positive,Company
+1693,Delivery,Positive
+1694,Positive,Delivery
+1695,Positive,Missing Items
+1696,Positive,Company
+1697,Delivery,Positive
+1698,Positive,Others
+1699,Positive,Delivery
+1700,Positive,Delivery
+1701,Positive,Delivery
+1702,Positive,Delivery
+1703,Positive,Company
+1704,Positive,Delivery
+1705,Positive,Missing Items
+1706,Positive,Others
+1707,Positive,Others
+1708,Positive,Delivery
+1709,Delivery,Positive
+1710,Delivery,Positive
+1711,Positive,Delivery
+1712,Delivery,Positive
+1713,Delivery,Positive
+1714,Positive,Delivery
+1715,Delivery,Positive
+1716,Delivery,Positive
+1717,Positive,Missing Items
+1718,Positive,Missing Items
+1719,Positive,Others
+1720,Positive,Company
+1721,Positive,Company
+1722,Positive,Others
+1723,Positive,Wrong Item
+1724,Positive,Delivery
+1725,Positive,Delivery
+1726,Positive,Company
+1727,Positive,Delivery
+1728,Positive,Company
+1729,Positive,Company
+1730,Positive,Missing Items
+1731,Positive,Others
+1732,Positive,Delivery
+1733,Positive,Others
+1734,Positive,Missing Items
+1735,Delivery,Others
+1736,Positive,Delivery
+1737,Delivery,Positive
+1738,Delivery,Positive
+1739,Positive,Others
+1740,Positive,Delivery
+1741,Positive,Others
+1742,Positive,Delivery
+1743,Positive,Delivery
+1744,Delivery,Positive
+1745,Positive,Delivery
+1746,Positive,Delivery
+1747,Positive,Delivery
+1748,Positive,Delivery
+1749,Positive,Delivery
+1750,Positive,Delivery
+1751,Positive,Delivery
+1752,Positive,Delivery
+1753,Delivery,Positive
+1754,Positive,Others
+1755,Positive,Others
+1756,Delivery,Positive
+1757,Positive,Missing Items
+1758,Positive,Company
+1759,Positive,Company
+1760,Positive,Others
+1761,Positive,Delivery
+1762,Positive,Others
+1763,Positive,Company
+1764,Delivery,Positive
+1765,Missing Items,Positive
+1766,Positive,Missing Items
+1767,Positive,Company
+1768,Positive,Company
+1769,Positive,Missing Items
+1770,Positive,Missing Items
+1771,Positive,Delivery
+1772,Positive,Delivery
+1773,Positive,Missing Items
+1774,Positive,Others
+1775,Positive,Others
+1776,Positive,Others
+1777,Positive,Others
+1778,Positive,Others
+1779,Positive,Others
+1780,Positive,Delivery
+1781,Positive,Others
+1782,Positive,Deffect
+1783,Delivery,Positive
+1784,Positive,Delivery
+1785,Positive,Delivery
+1786,Positive,Others
+1787,Positive,Others
+1788,Positive,Others
+1789,Positive,Others
+1790,Positive,Delivery
+1791,Positive,Others
+1792,Positive,Others
+1793,Positive,Others
+1794,Positive,Others
+1795,Positive,Others
+1796,Positive,Others
+1797,Positive,Others
+1798,Positive,Others
+1799,Positive,Others
+1800,Positive,Others
+1801,Positive,Company
+1802,Positive,Others
+1803,Positive,Others
+1804,Positive,Others
+1805,Positive,Others
+1806,Positive,Others
+1807,Positive,Others
+1808,Positive,Others
+1809,Positive,Others
+1810,Positive,Others
+1811,Positive,Others
+1812,Positive,Others
+1813,Positive,Others
+1814,Positive,Others
+1815,Positive,Others
+1816,Positive,Others
+1817,Positive,Others
+1818,Positive,Others
+1819,Positive,Others
+1820,Positive,Others
+1821,Positive,Others
+1822,Positive,Others
+1823,Positive,Others
+1824,Positive,Others
+1825,Positive,Others
+1826,Positive,Others
+1827,Positive,Others
+1828,Positive,Others
+1829,Positive,Others
+1830,Positive,Others
+1831,Positive,Others
+1832,Positive,Others
+1833,Positive,Others
+1834,Positive,Others
+1835,Positive,Others
+1836,Positive,Others
+1837,Positive,Others
+1838,Positive,Others
+1839,Positive,Others
+1840,Delivery,Positive
+1841,Positive,Others
+1842,Positive,Others
+1843,Delivery,Others
+1844,Delivery,Positive
+1845,Others,Positive
+1846,Delivery,Company
+1847,Delivery,Positive
+1848,Delivery,Others
+1849,Delivery,Missing Items
+1850,Delivery,Others
+1851,Missing Items,Company
+1852,Missing Items,Wrong Item
+1853,Delivery,Missing Items
+1854,Missing Items,Positive
+1855,Company,Positive
+1856,Missing Items,Others
+1857,Delivery,Deffect
+1858,Delivery,Wrong Item
+1859,Missing Items,Wrong Item
+1860,Missing Items,Company
+1861,Missing Items,Company
+1862,Delivery,Others
+1863,Missing Items,Company
+1864,Delivery,Missing Items
+1865,Missing Items,Others
+1866,Missing Items,Delivery
+1867,Missing Items,Others
+1868,Missing Items,Others
+1869,Missing Items,Company
+1870,Delivery,Others
+1871,Missing Items,Others
+1872,Delivery,Missing Items
+1873,Delivery,Missing Items
+1874,Delivery,Missing Items
+1875,Delivery,Company
+1876,Delivery,Missing Items
+1877,Delivery,Missing Items
+1878,Company,Delivery
+1879,Delivery,Company
+1880,Missing Items,Wrong Item
+1881,Missing Items,Delivery
+1882,Missing Items,Wrong Item
+1883,Delivery,Wrong Item
+1884,Missing Items,Others
+1885,Missing Items,Company
+1886,Missing Items,Wrong Item
+1887,Delivery,Missing Items
+1888,Missing Items,Delivery
+1889,Delivery,Missing Items
+1890,Missing Items,Others
+1891,Missing Items,Deffect
+1892,Missing Items,Wrong Item
+1893,Missing Items,Wrong Item
+1894,Missing Items,Wrong Item
+1895,Delivery,Missing Items
+1896,Missing Items,Wrong Item
+1897,Company,Missing Items
+1898,Missing Items,Wrong Item
+1899,Missing Items,Deffect
+1900,Company,Others
+1901,Company,Missing Items
+1902,Delivery,Company
+1903,Missing Items,Wrong Item
+1904,Missing Items,Others
+1905,Missing Items,Wrong Item
+1906,Company,Deffect
+1907,Missing Items,Company
+1908,Positive,Delivery
+1909,Missing Items,Others
+1910,Delivery,Company
+1911,Delivery,Missing Items
+1912,Missing Items,Delivery
+1913,Delivery,Company
+1914,Missing Items,Positive
+1915,Wrong Item,Delivery
+1916,Positive,Delivery
+1917,Delivery,Company
+1918,Missing Items,Wrong Item
+1919,Delivery,Missing Items
+1920,Company,Deffect
+1921,Delivery,Missing Items
+1922,Delivery,Others
+1923,Delivery,Missing Items
+1924,Positive,Delivery
+1925,Delivery,Positive
+1926,Delivery,Positive
+1927,Missing Items,Wrong Item
+1928,Delivery,Missing Items
+1929,Delivery,Company
+1930,Positive,Delivery
+1931,Positive,Delivery
+1932,Positive,Company
+1933,Positive,Company
+1934,Positive,Delivery
+1935,Positive,Others
+1936,Positive,Others
+1937,Positive,Others
+1938,Positive,Company
+1939,Positive,Delivery
+1940,Missing Items,Wrong Item
+1941,Positive,Company
+1942,Deffect,Wrong Item
+1943,Positive,Delivery
+1944,Missing Items,Delivery
+1945,Missing Items,Deffect
+1946,Missing Items,Deffect
+1947,Delivery,Missing Items
+1948,Delivery,Missing Items
+1949,Delivery,Missing Items
+1950,Positive,Delivery
+1951,Positive,Company
+1952,Positive,Company
+1953,Positive,Delivery
+1954,Positive,Delivery
+1955,Positive,Company
+1956,Positive,Others
+1957,Positive,Others
+1958,Delivery,Positive
+1959,Positive,Company
+1960,Positive,Company
+1961,Positive,Company
+1962,Positive,Delivery
+1963,Positive,Company
+1964,Positive,Others
+1965,Positive,Others
+1966,Positive,Others
+1967,Positive,Others
+1968,Positive,Company
+1969,Positive,Delivery
+1970,Positive,Company
+1971,Positive,Company
+1972,Positive,Delivery
+1973,Positive,Delivery
+1974,Positive,Delivery
+1975,Positive,Delivery
+1976,Positive,Delivery
+1977,Positive,Delivery
+1978,Positive,Deffect
+1979,Missing Items,Positive
+1980,Delivery,Others
+1981,Missing Items,Delivery
+1982,Deffect,Delivery
+1983,Deffect,Company
+1984,Delivery,Wrong Item
+1985,Delivery,Company
+1986,Delivery,Positive
+1987,Positive,Company
+1988,Positive,Delivery
+1989,Positive,Others
+1990,Positive,Delivery
+1991,Positive,Others
+1992,Positive,Others
+1993,Positive,Others
+1994,Positive,Others
+1995,Positive,Delivery
+1996,Positive,Others
+1997,Positive,Others
+1998,Positive,Delivery
+1999,Positive,Others
+2000,Positive,Delivery
+2001,Positive,Deffect
+2002,Positive,Company
+2003,Positive,Company
+2004,Delivery,Positive
+2005,Positive,Delivery
+2006,Deffect,Wrong Item
+2007,Missing Items,Positive
+2008,Missing Items,Positive
+2009,Positive,Delivery
+2010,Positive,Others
+2011,Positive,Missing Items
+2012,Positive,Others
+2013,Delivery,Wrong Item
+2014,Positive,Delivery
+2015,Delivery,Positive
+2016,Delivery,Positive
+2017,Delivery,Others
+2018,Positive,Delivery
+2019,Positive,Delivery
+2020,Positive,Delivery
+2021,Positive,Delivery
+2022,Delivery,Missing Items
+2023,Delivery,Positive
+2024,Positive,Delivery
+2025,Positive,Delivery
+2026,Positive,Delivery
+2027,Delivery,Positive
+2028,Delivery,Positive
+2029,Positive,Delivery
+2030,Positive,Delivery
+2031,Positive,Delivery
+2032,Delivery,Company
+2033,Delivery,Positive
+2034,Delivery,Positive
+2035,Positive,Delivery
+2036,Positive,Delivery
+2037,Delivery,Positive
+2038,Positive,Delivery
+2039,Delivery,Deffect
+2040,Delivery,Missing Items
+2041,Delivery,Deffect
+2042,Delivery,Missing Items
+2043,Missing Items,Wrong Item
+2044,Wrong Item,Company
+2045,Delivery,Wrong Item
+2046,Delivery,Wrong Item
+2047,Wrong Item,Deffect
+2048,Missing Items,Wrong Item
+2049,Missing Items,Deffect
+2050,Missing Items,Wrong Item
+2051,Positive,Delivery
+2052,Delivery,Positive
+2053,Delivery,Wrong Item
+2054,Delivery,Positive
+2055,Delivery,Positive
+2056,Delivery,Positive
+2057,Delivery,Positive
+2058,Delivery,Missing Items
+2059,Delivery,Missing Items
+2060,Deffect,Missing Items
+2061,Missing Items,Delivery
+2062,Wrong Item,Deffect
+2063,Deffect,Missing Items
+2064,Positive,Others
+2065,Positive,Others
+2066,Delivery,Positive
+2067,Positive,Wrong Item
+2068,Delivery,Missing Items
+2069,Delivery,Missing Items
+2070,Delivery,Deffect
+2071,Delivery,Missing Items
+2072,Delivery,Missing Items
+2073,Delivery,Positive
+2074,Company,Deffect
+2075,Positive,Delivery
+2076,Missing Items,Others
+2077,Delivery,Others
+2078,Missing Items,Deffect
+2079,Missing Items,Deffect
+2080,Deffect,Wrong Item
+2081,Positive,Missing Items
+2082,Wrong Item,Deffect
+2083,Wrong Item,Missing Items
+2084,Wrong Item,Deffect
+2085,Others,Wrong Item
+2086,Wrong Item,Deffect
+2087,Wrong Item,Others
+2088,Delivery,Positive
+2089,Delivery,Wrong Item
+2090,Delivery,Positive
+2091,Delivery,Missing Items
+2092,Positive,Delivery
+2093,Delivery,Company
+2094,Positive,Delivery
+2095,Delivery,Positive
+2096,Delivery,Positive
+2097,Delivery,Missing Items
+2098,Delivery,Wrong Item
+2099,Missing Items,Wrong Item
+2100,Delivery,Positive
+2101,Missing Items,Delivery
+2102,Delivery,Wrong Item
+2103,Delivery,Wrong Item
+2104,Delivery,Missing Items
+2105,Delivery,Missing Items
+2106,Delivery,Wrong Item
+2107,Delivery,Positive
+2108,Missing Items,Wrong Item
+2109,Positive,Missing Items
+2110,Company,Deffect
+2111,Delivery,Positive
+2112,Others,Wrong Item
+2113,Wrong Item,Missing Items
+2114,Positive,Delivery
+2115,Delivery,Positive
+2116,Positive,Others
+2117,Positive,Company
+2118,Positive,Others
+2119,Positive,Delivery
+2120,Positive,Company
+2121,Positive,Delivery
+2122,Positive,Others
+2123,Positive,Others
+2124,Positive,Delivery
+2125,Positive,Company
+2126,Positive,Company
+2127,Wrong Item,Deffect
+2128,Positive,Others
+2129,Positive,Company
+2130,Positive,Delivery
+2131,Positive,Delivery
+2132,Positive,Others
+2133,Positive,Others
+2134,Positive,Company
+2135,Positive,Delivery
+2136,Delivery,Positive
+2137,Positive,Delivery
+2138,Positive,Delivery
+2139,Delivery,Positive
+2140,Positive,Others
+2141,Positive,Company
+2142,Positive,Company
+2143,Delivery,Positive
+2144,Positive,Delivery
+2145,Positive,Others
+2146,Delivery,Positive
+2147,Positive,Others
+2148,Positive,Others
+2149,Positive,Company
+2150,Positive,Delivery
+2151,Delivery,Missing Items
+2152,Delivery,Positive
+2153,Delivery,Positive
+2154,Delivery,Positive
+2155,Positive,Delivery
+2156,Positive,Deffect
+2157,Delivery,Positive
+2158,Positive,Others
+2159,Delivery,Positive
+2160,Positive,Others
+2161,Delivery,Positive
+2162,Positive,Company
+2163,Positive,Company
+2164,Positive,Delivery
+2165,Positive,Delivery
+2166,Delivery,Positive
+2167,Positive,Delivery
+2168,Positive,Delivery
+2169,Positive,Delivery
+2170,Positive,Delivery
+2171,Delivery,Positive
+2172,Positive,Others
+2173,Delivery,Deffect
+2174,Delivery,Missing Items
+2175,Missing Items,Delivery
+2176,Positive,Delivery
+2177,Positive,Delivery
+2178,Positive,Delivery
+2179,Delivery,Positive
+2180,Positive,Deffect
+2181,Others,Delivery
+2182,Missing Items,Wrong Item
+2183,Delivery,Positive
+2184,Delivery,Positive
+2185,Missing Items,Wrong Item
+2186,Missing Items,Wrong Item
+2187,Others,Wrong Item
+2188,Delivery,Missing Items
+2189,Delivery,Positive
+2190,Delivery,Missing Items
+2191,Delivery,Wrong Item
+2192,Positive,Delivery
+2193,Positive,Delivery
+2194,Positive,Company
+2195,Missing Items,Wrong Item
+2196,Delivery,Positive
+2197,Positive,Company
+2198,Delivery,Positive
+2199,Missing Items,Deffect
+2200,Positive,Missing Items
+2201,Delivery,Positive
+2202,Delivery,Positive
+2203,Delivery,Positive
+2204,Delivery,Positive
+2205,Delivery,Positive
+2206,Positive,Delivery
+2207,Positive,Delivery
+2208,Delivery,Positive
+2209,Positive,Delivery
+2210,Positive,Others
+2211,Delivery,Positive
+2212,Positive,Company
+2213,Positive,Company
+2214,Positive,Company
+2215,Positive,Delivery
+2216,Positive,Delivery
+2217,Positive,Others
+2218,Positive,Delivery
+2219,Positive,Company
+2220,Delivery,Positive
+2221,Positive,Others
+2222,Company,Deffect
+2223,Wrong Item,Delivery
+2224,Missing Items,Wrong Item
+2225,Delivery,Positive
+2226,Delivery,Wrong Item
+2227,Positive,Company
+2228,Delivery,Positive
+2229,Delivery,Missing Items
+2230,Delivery,Positive
+2231,Wrong Item,Delivery
+2232,Positive,Delivery
+2233,Positive,Others
+2234,Positive,Missing Items
+2235,Positive,Missing Items
+2236,Missing Items,Delivery
+2237,Wrong Item,Others
+2238,Wrong Item,Positive
+2239,Missing Items,Delivery
+2240,Delivery,Others
+2241,Delivery,Missing Items
+2242,Positive,Delivery
+2243,Positive,Deffect
+2244,Delivery,Positive
+2245,Wrong Item,Delivery
+2246,Wrong Item,Delivery
+2247,Wrong Item,Others
+2248,Delivery,Wrong Item
+2249,Delivery,Positive
+2250,Delivery,Positive
+2251,Delivery,Wrong Item
+2252,Delivery,Company
+2253,Wrong Item,Missing Items
+2254,Delivery,Wrong Item
+2255,Delivery,Wrong Item
+2256,Delivery,Positive
+2257,Delivery,Wrong Item
+2258,Delivery,Positive
+2259,Delivery,Missing Items
+2260,Delivery,Missing Items
+2261,Delivery,Wrong Item
+2262,Delivery,Missing Items
+2263,Delivery,Others
+2264,Delivery,Wrong Item
+2265,Delivery,Missing Items
+2266,Delivery,Positive
+2267,Delivery,Missing Items
+2268,Delivery,Missing Items
+2269,Delivery,Missing Items
+2270,Missing Items,Delivery
+2271,Delivery,Company
+2272,Delivery,Missing Items
+2273,Delivery,Missing Items
+2274,Delivery,Others
+2275,Delivery,Deffect
+2276,Delivery,Missing Items
+2277,Delivery,Others
+2278,Positive,Delivery
+2279,Delivery,Positive
+2280,Delivery,Positive
+2281,Delivery,Positive
+2282,Wrong Item,Delivery
+2283,Delivery,Positive
+2284,Delivery,Positive
+2285,Delivery,Deffect
+2286,Delivery,Missing Items
+2287,Delivery,Positive
+2288,Delivery,Positive
+2289,Delivery,Positive
+2290,Delivery,Positive
+2291,Delivery,Positive
+2292,Delivery,Positive
+2293,Delivery,Deffect
+2294,Delivery,Positive
+2295,Positive,Delivery
+2296,Delivery,Positive
+2297,Delivery,Positive
+2298,Delivery,Positive
+2299,Delivery,Positive
+2300,Delivery,Positive
+2301,Delivery,Positive
+2302,Delivery,Positive
+2303,Delivery,Positive
+2304,Delivery,Positive
+2305,Delivery,Positive
+2306,Delivery,Positive
+2307,Delivery,Deffect
+2308,Delivery,Wrong Item
+2309,Delivery,Positive
+2310,Delivery,Positive
+2311,Delivery,Deffect
+2312,Delivery,Positive
+2313,Delivery,Positive
+2314,Delivery,Deffect
+2315,Delivery,Positive
+2316,Delivery,Positive
+2317,Delivery,Deffect
+2318,Delivery,Positive
+2319,Delivery,Positive
+2320,Delivery,Positive
+2321,Delivery,Positive
+2322,Delivery,Others
+2323,Delivery,Positive
+2324,Delivery,Positive
+2325,Delivery,Positive
+2326,Delivery,Positive
+2327,Delivery,Positive
+2328,Delivery,Deffect
+2329,Delivery,Positive
+2330,Delivery,Positive
+2331,Delivery,Positive
+2332,Delivery,Positive
+2333,Delivery,Positive
+2334,Delivery,Missing Items
+2335,Delivery,Positive
+2336,Delivery,Missing Items
+2337,Delivery,Missing Items
+2338,Wrong Item,Delivery
+2339,Wrong Item,Delivery
+2340,Delivery,Missing Items
+2341,Delivery,Missing Items
+2342,Delivery,Missing Items
+2343,Missing Items,Delivery
+2344,Delivery,Missing Items
+2345,Missing Items,Delivery
+2346,Delivery,Positive
+2347,Deffect,Wrong Item
+2348,Delivery,Company
+2349,Delivery,Positive
+2350,Delivery,Positive
+2351,Delivery,Others
+2352,Positive,Delivery
+2353,Delivery,Positive
+2354,Delivery,Positive
+2355,Delivery,Positive
+2356,Delivery,Positive
+2357,Delivery,Positive
+2358,Delivery,Positive
+2359,Delivery,Positive
+2360,Delivery,Positive
+2361,Delivery,Positive
+2362,Delivery,Positive
+2363,Positive,Delivery
+2364,Delivery,Positive
+2365,Delivery,Positive
+2366,Delivery,Positive
+2367,Delivery,Missing Items
+2368,Delivery,Positive
+2369,Delivery,Positive
+2370,Delivery,Positive
+2371,Delivery,Positive
+2372,Delivery,Positive
+2373,Delivery,Positive
+2374,Delivery,Positive
+2375,Delivery,Positive
+2376,Delivery,Missing Items
+2377,Delivery,Missing Items
+2378,Delivery,Positive
+2379,Delivery,Positive
+2380,Delivery,Positive
+2381,Delivery,Wrong Item
+2382,Positive,Delivery
+2383,Delivery,Positive
+2384,Missing Items,Delivery
+2385,Wrong Item,Missing Items
+2386,Positive,Company
+2387,Delivery,Positive
+2388,Positive,Delivery
+2389,Delivery,Company
+2390,Positive,Delivery
+2391,Delivery,Positive
+2392,Delivery,Positive
+2393,Positive,Delivery
+2394,Positive,Others
+2395,Delivery,Missing Items
+2396,Delivery,Positive
+2397,Missing Items,Others
+2398,Missing Items,Delivery
+2399,Positive,Delivery
+2400,Delivery,Missing Items
+2401,Missing Items,Wrong Item
+2402,Delivery,Others
+2403,Missing Items,Deffect
+2404,Delivery,Deffect
+2405,Positive,Others
+2406,Delivery,Positive
+2407,Positive,Delivery
+2408,Positive,Delivery
+2409,Positive,Delivery
+2410,Delivery,Positive
+2411,Delivery,Positive
+2412,Positive,Others
+2413,Delivery,Positive
+2414,Positive,Deffect
+2415,Positive,Others
+2416,Others,Wrong Item
+2417,Missing Items,Delivery
+2418,Delivery,Wrong Item
+2419,Missing Items,Wrong Item
+2420,Wrong Item,Others
+2421,Wrong Item,Deffect
+2422,Others,Company
+2423,Wrong Item,Others
+2424,Company,Positive
+2425,Wrong Item,Company
+2426,Company,Positive
+2427,Positive,Delivery
+2428,Positive,Delivery
+2429,Positive,Delivery
+2430,Positive,Company
+2431,Positive,Delivery
+2432,Positive,Company
+2433,Positive,Company
+2434,Positive,Company
+2435,Company,Missing Items
+2436,Positive,Delivery
+2437,Positive,Company
+2438,Delivery,Positive
+2439,Delivery,Company
+2440,Positive,Company
+2441,Positive,Others
+2442,Positive,Company
+2443,Others,Missing Items
+2444,Delivery,Missing Items
+2445,Delivery,Wrong Item
+2446,Company,Missing Items
+2447,Missing Items,Deffect
+2448,Positive,Company
+2449,Missing Items,Wrong Item
+2450,Positive,Delivery
+2451,Company,Delivery
+2452,Missing Items,Deffect
+2453,Company,Delivery
+2454,Positive,Company
+2455,Positive,Company
+2456,Positive,Delivery
+2457,Positive,Delivery
+2458,Delivery,Wrong Item
+2459,Missing Items,Wrong Item
+2460,Company,Deffect
+2461,Missing Items,Delivery
+2462,Delivery,Positive
+2463,Delivery,Wrong Item
+2464,Missing Items,Deffect
+2465,Missing Items,Positive
+2466,Company,Delivery
+2467,Missing Items,Delivery
+2468,Delivery,Wrong Item
+2469,Missing Items,Wrong Item
+2470,Delivery,Missing Items
+2471,Missing Items,Wrong Item
+2472,Positive,Missing Items
+2473,Positive,Delivery
+2474,Deffect,Missing Items
+2475,Missing Items,Wrong Item
+2476,Delivery,Missing Items
+2477,Missing Items,Wrong Item
+2478,Others,Wrong Item
+2479,Others,Missing Items
+2480,Wrong Item,Others
+2481,Missing Items,Delivery
+2482,Delivery,Wrong Item
+2483,Delivery,Positive
+2484,Delivery,Positive
+2485,Delivery,Company
+2486,Others,Delivery
+2487,Others,Delivery
+2488,Missing Items,Others
+2489,Delivery,Wrong Item
+2490,Missing Items,Delivery
+2491,Delivery,Wrong Item
+2492,Missing Items,Others
+2493,Missing Items,Delivery
+2494,Positive,Company
+2495,Positive,Wrong Item
+2496,Missing Items,Wrong Item
+2497,Missing Items,Others
+2498,Delivery,Missing Items
+2499,Missing Items,Wrong Item
+2500,Wrong Item,Missing Items
+2501,Others,Positive
+2502,Delivery,Positive
+2503,Delivery,Positive
+2504,Missing Items,Delivery
+2505,Positive,Delivery
+2506,Delivery,Positive
+2507,Missing Items,Deffect
+2508,Missing Items,Delivery
+2509,Wrong Item,Missing Items
+2510,Company,Delivery
+2511,Missing Items,Wrong Item
+2512,Delivery,Positive
+2513,Missing Items,Delivery
+2514,Delivery,Wrong Item
+2515,Delivery,Missing Items
+2516,Wrong Item,Missing Items
+2517,Delivery,Positive
+2518,Delivery,Missing Items
+2519,Delivery,Positive
+2520,Wrong Item,Others
+2521,Missing Items,Delivery
+2522,Delivery,Missing Items
+2523,Delivery,Positive
+2524,Delivery,Wrong Item
+2525,Delivery,Missing Items
+2526,Wrong Item,Missing Items
+2527,Deffect,Wrong Item
+2528,Delivery,Wrong Item
+2529,Missing Items,Delivery
+2530,Wrong Item,Delivery
+2531,Missing Items,Wrong Item
+2532,Deffect,Others
+2533,Missing Items,Delivery
+2534,Delivery,Missing Items
+2535,Delivery,Positive
+2536,Delivery,Deffect
+2537,Delivery,Others
+2538,Positive,Deffect
+2539,Positive,Delivery
+2540,Missing Items,Delivery
+2541,Missing Items,Deffect
+2542,Missing Items,Deffect
+2543,Delivery,Missing Items
+2544,Delivery,Wrong Item
+2545,Deffect,Delivery
+2546,Delivery,Others
+2547,Wrong Item,Others
+2548,Missing Items,Positive
+2549,Delivery,Others
+2550,Delivery,Deffect
+2551,Wrong Item,Delivery
+2552,Delivery,Positive
+2553,Missing Items,Wrong Item
+2554,Wrong Item,Missing Items
+2555,Deffect,Others
+2556,Delivery,Company
+2557,Positive,Delivery
+2558,Missing Items,Positive
+2559,Deffect,Missing Items
+2560,Wrong Item,Missing Items
+2561,Missing Items,Wrong Item
+2562,Wrong Item,Missing Items
+2563,Delivery,Missing Items
+2564,Missing Items,Wrong Item
+2565,Wrong Item,Missing Items
+2566,Delivery,Missing Items
+2567,Positive,Delivery
+2568,Positive,Delivery
+2569,Company,Delivery
+2570,Others,Delivery
+2571,Deffect,Missing Items
+2572,Delivery,Missing Items
+2573,Missing Items,Wrong Item
+2574,Positive,Company
+2575,Delivery,Positive
+2576,Missing Items,Deffect
+2577,Missing Items,Wrong Item
+2578,Wrong Item,Missing Items
+2579,Missing Items,Wrong Item
+2580,Missing Items,Wrong Item
+2581,Delivery,Deffect
+2582,Missing Items,Positive
+2583,Missing Items,Wrong Item
+2584,Missing Items,Wrong Item
+2585,Missing Items,Wrong Item
+2586,Positive,Delivery
+2587,Delivery,Positive
+2588,Delivery,Missing Items
+2589,Missing Items,Wrong Item
+2590,Delivery,Wrong Item
+2591,Missing Items,Wrong Item
+2592,Delivery,Wrong Item
+2593,Delivery,Wrong Item
+2594,Missing Items,Wrong Item
+2595,Others,Delivery
+2596,Delivery,Missing Items
+2597,Delivery,Wrong Item
+2598,Missing Items,Others
+2599,Missing Items,Delivery
+2600,Wrong Item,Missing Items
+2601,Delivery,Missing Items
+2602,Deffect,Missing Items
+2603,Delivery,Wrong Item
+2604,Missing Items,Wrong Item
+2605,Wrong Item,Missing Items
+2606,Delivery,Others
+2607,Delivery,Missing Items
+2608,Wrong Item,Positive
+2609,Missing Items,Delivery
+2610,Delivery,Missing Items
+2611,Company,Missing Items
+2612,Delivery,Wrong Item
+2613,Wrong Item,Missing Items
+2614,Missing Items,Delivery
+2615,Delivery,Others
+2616,Missing Items,Wrong Item
+2617,Delivery,Wrong Item
+2618,Delivery,Others
+2619,Delivery,Missing Items
+2620,Delivery,Missing Items
+2621,Missing Items,Wrong Item
+2622,Wrong Item,Missing Items
+2623,Company,Positive
+2624,Positive,Delivery
+2625,Missing Items,Delivery
+2626,Delivery,Positive
+2627,Company,Wrong Item
+2628,Others,Positive
+2629,Delivery,Deffect
+2630,Positive,Delivery
+2631,Company,Missing Items
+2632,Wrong Item,Missing Items
+2633,Delivery,Positive
+2634,Delivery,Missing Items
+2635,Delivery,Positive
+2636,Delivery,Positive
+2637,Missing Items,Delivery
+2638,Positive,Delivery
+2639,Positive,Others
+2640,Positive,Delivery
+2641,Delivery,Positive
+2642,Positive,Company
+2643,Positive,Delivery
+2644,Missing Items,Delivery
+2645,Positive,Others
+2646,Positive,Delivery
+2647,Positive,Company
+2648,Positive,Company
+2649,Positive,Company
+2650,Positive,Delivery
+2651,Positive,Delivery
+2652,Positive,Delivery
+2653,Positive,Delivery
+2654,Delivery,Positive
+2655,Positive,Others
+2656,Positive,Others
+2657,Positive,Company
+2658,Positive,Company
+2659,Positive,Company
+2660,Delivery,Positive
+2661,Delivery,Positive
+2662,Positive,Company
+2663,Positive,Delivery
+2664,Positive,Company
+2665,Positive,Delivery
+2666,Positive,Delivery
+2667,Positive,Company
+2668,Missing Items,Others
+2669,Delivery,Missing Items
+2670,Positive,Company
+2671,Positive,Delivery
+2672,Positive,Company
+2673,Positive,Delivery
+2674,Delivery,Positive
+2675,Positive,Delivery
+2676,Positive,Company
+2677,Delivery,Positive
+2678,Delivery,Positive
+2679,Positive,Delivery
+2680,Positive,Company
+2681,Positive,Company
+2682,Positive,Company
+2683,Positive,Company
+2684,Positive,Company
+2685,Positive,Delivery
+2686,Delivery,Positive
+2687,Delivery,Positive
+2688,Delivery,Positive
+2689,Positive,Delivery
+2690,Delivery,Positive
+2691,Positive,Delivery
+2692,Positive,Delivery
+2693,Positive,Delivery
+2694,Positive,Delivery
+2695,Positive,Delivery
+2696,Positive,Delivery
+2697,Positive,Delivery
+2698,Delivery,Positive
+2699,Positive,Delivery
+2700,Positive,Delivery
+2701,Positive,Company
+2702,Positive,Company
+2703,Positive,Delivery
+2704,Positive,Delivery
+2705,Positive,Delivery
+2706,Positive,Company
+2707,Positive,Delivery
+2708,Positive,Company
+2709,Positive,Company
+2710,Wrong Item,Missing Items
+2711,Positive,Delivery
+2712,Positive,Delivery
+2713,Delivery,Positive
+2714,Positive,Delivery
+2715,Positive,Others
+2716,Delivery,Wrong Item
+2717,Wrong Item,Missing Items
+2718,Wrong Item,Deffect
+2719,Missing Items,Wrong Item
+2720,Positive,Company
+2721,Positive,Others
+2722,Positive,Others
+2723,Company,Missing Items
+2724,Delivery,Company
+2725,Positive,Delivery
+2726,Delivery,Positive
+2727,Positive,Delivery
+2728,Positive,Delivery
+2729,Missing Items,Positive
+2730,Positive,Delivery
+2731,Positive,Delivery
+2732,Positive,Company
+2733,Missing Items,Wrong Item
+2734,Others,Missing Items
+2735,Delivery,Missing Items
+2736,Delivery,Missing Items
+2737,Wrong Item,Deffect
+2738,Positive,Missing Items
+2739,Positive,Company
+2740,Delivery,Positive
+2741,Delivery,Positive
+2742,Positive,Others
+2743,Positive,Delivery
+2744,Wrong Item,Deffect
+2745,Delivery,Positive
+2746,Positive,Others
+2747,Positive,Delivery
+2748,Delivery,Missing Items
+2749,Delivery,Missing Items
+2750,Positive,Company
+2751,Positive,Delivery
+2752,Positive,Missing Items
+2753,Positive,Missing Items
+2754,Delivery,Positive
+2755,Delivery,Positive
+2756,Delivery,Missing Items
+2757,Positive,Others
+2758,Missing Items,Wrong Item
+2759,Missing Items,Delivery
+2760,Missing Items,Wrong Item
+2761,Missing Items,Wrong Item
+2762,Missing Items,Wrong Item
+2763,Company,Positive
+2764,Positive,Company
+2765,Positive,Delivery
+2766,Wrong Item,Missing Items
+2767,Positive,Others
+2768,Delivery,Positive
+2769,Positive,Company
+2770,Delivery,Missing Items
+2771,Missing Items,Wrong Item
+2772,Positive,Delivery
+2773,Positive,Others
+2774,Positive,Delivery
+2775,Positive,Delivery
+2776,Delivery,Positive
+2777,Positive,Company
+2778,Positive,Company
+2779,Delivery,Positive
+2780,Wrong Item,Deffect
+2781,Wrong Item,Missing Items
+2782,Delivery,Others
+2783,Delivery,Positive
+2784,Missing Items,Deffect
+2785,Missing Items,Wrong Item
+2786,Missing Items,Wrong Item
+2787,Missing Items,Wrong Item
+2788,Missing Items,Others
+2789,Deffect,Positive
+2790,Positive,Company
+2791,Positive,Company
+2792,Missing Items,Company
+2793,Positive,Company
+2794,Missing Items,Wrong Item
+2795,Missing Items,Wrong Item
+2796,Missing Items,Delivery
+2797,Company,Missing Items
+2798,Missing Items,Delivery
+2799,Missing Items,Company
+2800,Missing Items,Delivery
+2801,Deffect,Positive
+2802,Deffect,Positive
+2803,Deffect,Wrong Item
+2804,Deffect,Missing Items
+2805,Delivery,Positive
+2806,Company,Delivery
+2807,Others,Missing Items
+2808,Others,Company
+2809,Positive,Delivery
+2810,Positive,Delivery
+2811,Positive,Delivery
+2812,Missing Items,Company
+2813,Missing Items,Wrong Item
+2814,Missing Items,Wrong Item
+2815,Missing Items,Delivery
+2816,Missing Items,Wrong Item
+2817,Missing Items,Wrong Item
+2818,Delivery,Missing Items
+2819,Missing Items,Wrong Item
+2820,Wrong Item,Missing Items
+2821,Missing Items,Delivery
+2822,Missing Items,Wrong Item
+2823,Missing Items,Wrong Item
+2824,Missing Items,Wrong Item
+2825,Wrong Item,Missing Items
+2826,Missing Items,Wrong Item
+2827,Missing Items,Others
+2828,Missing Items,Delivery
+2829,Missing Items,Others
+2830,Missing Items,Wrong Item
+2831,Missing Items,Wrong Item
+2832,Missing Items,Positive
+2833,Missing Items,Wrong Item
+2834,Missing Items,Wrong Item
+2835,Missing Items,Delivery
+2836,Missing Items,Wrong Item
+2837,Missing Items,Wrong Item
+2838,Missing Items,Delivery
+2839,Missing Items,Wrong Item
+2840,Missing Items,Wrong Item
+2841,Missing Items,Positive
+2842,Missing Items,Company
+2843,Missing Items,Delivery
+2844,Missing Items,Wrong Item
+2845,Missing Items,Delivery
+2846,Missing Items,Others
+2847,Positive,Missing Items
+2848,Wrong Item,Missing Items
+2849,Missing Items,Wrong Item
+2850,Missing Items,Wrong Item
+2851,Missing Items,Positive
+2852,Missing Items,Wrong Item
+2853,Missing Items,Wrong Item
+2854,Delivery,Missing Items
+2855,Delivery,Wrong Item
+2856,Missing Items,Wrong Item
+2857,Delivery,Others
+2858,Missing Items,Others
+2859,Missing Items,Wrong Item
+2860,Missing Items,Wrong Item
+2861,Missing Items,Delivery
+2862,Missing Items,Wrong Item
+2863,Missing Items,Wrong Item
+2864,Missing Items,Wrong Item
+2865,Missing Items,Wrong Item
+2866,Missing Items,Wrong Item
+2867,Missing Items,Delivery
+2868,Missing Items,Wrong Item
+2869,Missing Items,Delivery
+2870,Wrong Item,Missing Items
+2871,Wrong Item,Missing Items
+2872,Missing Items,Wrong Item
+2873,Missing Items,Wrong Item
+2874,Missing Items,Wrong Item
+2875,Missing Items,Wrong Item
+2876,Missing Items,Wrong Item
+2877,Missing Items,Wrong Item
+2878,Missing Items,Delivery
+2879,Missing Items,Wrong Item
+2880,Missing Items,Others
+2881,Missing Items,Wrong Item
+2882,Missing Items,Deffect
+2883,Missing Items,Wrong Item
+2884,Missing Items,Wrong Item
+2885,Missing Items,Delivery
+2886,Missing Items,Positive
+2887,Missing Items,Delivery
+2888,Missing Items,Delivery
+2889,Missing Items,Delivery
+2890,Missing Items,Delivery
+2891,Missing Items,Wrong Item
+2892,Missing Items,Wrong Item
+2893,Missing Items,Wrong Item
+2894,Missing Items,Wrong Item
+2895,Missing Items,Company
+2896,Missing Items,Wrong Item
+2897,Missing Items,Deffect
+2898,Missing Items,Wrong Item
+2899,Missing Items,Others
+2900,Delivery,Missing Items
+2901,Missing Items,Delivery
+2902,Missing Items,Wrong Item
+2903,Missing Items,Deffect
+2904,Missing Items,Others
+2905,Deffect,Missing Items
+2906,Deffect,Missing Items
+2907,Deffect,Delivery
+2908,Deffect,Wrong Item
+2909,Deffect,Company
+2910,Missing Items,Wrong Item
+2911,Deffect,Wrong Item
+2912,Delivery,Deffect
+2913,Deffect,Others
+2914,Delivery,Deffect
+2915,Deffect,Others
+2916,Deffect,Company
+2917,Deffect,Wrong Item
+2918,Wrong Item,Deffect
+2919,Deffect,Wrong Item
+2920,Missing Items,Others
+2921,Company,Missing Items
+2922,Delivery,Missing Items
+2923,Deffect,Wrong Item
+2924,Deffect,Wrong Item
+2925,Deffect,Missing Items
+2926,Deffect,Missing Items
+2927,Deffect,Missing Items
+2928,Deffect,Wrong Item
+2929,Deffect,Wrong Item
+2930,Deffect,Company
+2931,Wrong Item,Missing Items
+2932,Delivery,Others
+2933,Missing Items,Others
+2934,Missing Items,Wrong Item
+2935,Missing Items,Others
+2936,Positive,Missing Items
+2937,Missing Items,Wrong Item
+2938,Deffect,Wrong Item
+2939,Wrong Item,Missing Items
+2940,Delivery,Missing Items
+2941,Missing Items,Delivery
+2942,Positive,Others
+2943,Positive,Others
+2944,Positive,Company
+2945,Positive,Others
+2946,Positive,Delivery
+2947,Positive,Others
+2948,Positive,Delivery
+2949,Positive,Others
+2950,Delivery,Positive
+2951,Positive,Delivery
+2952,Delivery,Positive
+2953,Delivery,Others
+2954,Positive,Delivery
+2955,Positive,Delivery
+2956,Positive,Others
+2957,Positive,Delivery
+2958,Positive,Wrong Item
+2959,Missing Items,Delivery
+2960,Delivery,Wrong Item
+2961,Delivery,Positive
+2962,Delivery,Positive
+2963,Others,Missing Items
+2964,Delivery,Wrong Item
+2965,Missing Items,Delivery
+2966,Delivery,Wrong Item
+2967,Positive,Missing Items
+2968,Delivery,Wrong Item
+2969,Missing Items,Delivery
+2970,Missing Items,Delivery
+2971,Delivery,Wrong Item
+2972,Missing Items,Delivery
+2973,Positive,Delivery
+2974,Positive,Company
+2975,Positive,Company
+2976,Missing Items,Wrong Item
+2977,Deffect,Delivery
+2978,Delivery,Missing Items
+2979,Delivery,Missing Items
+2980,Positive,Delivery
+2981,Missing Items,Delivery
+2982,Missing Items,Wrong Item
+2983,Missing Items,Wrong Item
+2984,Delivery,Missing Items
+2985,Missing Items,Wrong Item
+2986,Positive,Deffect
+2987,Positive,Delivery
+2988,Positive,Delivery
+2989,Positive,Others
+2990,Missing Items,Wrong Item
+2991,Positive,Delivery
+2992,Delivery,Missing Items
+2993,Positive,Company
+2994,Positive,Others
+2995,Company,Positive
+2996,Positive,Company
+2997,Delivery,Positive
+2998,Positive,Delivery
+2999,Delivery,Positive
+3000,Positive,Delivery
+3001,Positive,Others
+3002,Positive,Company
+3003,Positive,Delivery
+3004,Positive,Company
+3005,Delivery,Positive
+3006,Delivery,Positive
+3007,Delivery,Positive
+3008,Delivery,Positive
+3009,Positive,Others
+3010,Positive,Others
+3011,Positive,Others
+3012,Positive,Delivery
+3013,Positive,Deffect
+3014,Positive,Company
+3015,Company,Positive
+3016,Delivery,Positive
+3017,Positive,Delivery
+3018,Positive,Delivery
+3019,Positive,Delivery
+3020,Positive,Delivery
+3021,Positive,Company
+3022,Positive,Company
+3023,Positive,Delivery
+3024,Positive,Delivery
+3025,Positive,Missing Items
+3026,Positive,Delivery
+3027,Positive,Others
+3028,Positive,Others
+3029,Positive,Others
+3030,Positive,Delivery
+3031,Positive,Others
+3032,Positive,Delivery
+3033,Positive,Delivery
+3034,Positive,Delivery
+3035,Positive,Delivery
+3036,Positive,Delivery
+3037,Positive,Delivery
+3038,Positive,Delivery
+3039,Positive,Delivery
+3040,Positive,Delivery
+3041,Positive,Delivery
+3042,Positive,Delivery
+3043,Positive,Delivery
+3044,Positive,Delivery
+3045,Positive,Delivery
+3046,Positive,Delivery
+3047,Positive,Delivery
+3048,Positive,Delivery
+3049,Positive,Delivery
+3050,Positive,Delivery
+3051,Positive,Delivery
+3052,Positive,Delivery
+3053,Delivery,Positive
+3054,Positive,Others
+3055,Positive,Delivery
+3056,Positive,Delivery
+3057,Positive,Delivery
+3058,Positive,Delivery
+3059,Positive,Delivery
+3060,Positive,Delivery
+3061,Positive,Delivery
+3062,Positive,Others
+3063,Positive,Delivery
+3064,Positive,Others
+3065,Positive,Delivery
+3066,Positive,Others
+3067,Delivery,Positive
+3068,Positive,Delivery
+3069,Positive,Delivery
+3070,Positive,Others
+3071,Positive,Others
+3072,Positive,Delivery
+3073,Positive,Delivery
+3074,Positive,Delivery
+3075,Positive,Delivery
+3076,Positive,Delivery
+3077,Positive,Delivery
+3078,Positive,Delivery
+3079,Positive,Delivery
+3080,Positive,Delivery
+3081,Positive,Delivery
+3082,Positive,Delivery
+3083,Positive,Delivery
+3084,Positive,Delivery
+3085,Positive,Delivery
+3086,Positive,Delivery
+3087,Positive,Delivery
+3088,Positive,Delivery
+3089,Positive,Others
+3090,Positive,Others
+3091,Positive,Others
+3092,Positive,Delivery
+3093,Positive,Delivery
+3094,Positive,Delivery
+3095,Positive,Delivery
+3096,Positive,Delivery
+3097,Positive,Delivery
+3098,Positive,Delivery
+3099,Positive,Delivery
+3100,Positive,Delivery
+3101,Positive,Delivery
+3102,Positive,Delivery
+3103,Positive,Delivery
+3104,Positive,Delivery
+3105,Positive,Delivery
+3106,Positive,Delivery
+3107,Positive,Delivery
+3108,Positive,Delivery
+3109,Positive,Delivery
+3110,Positive,Delivery
+3111,Positive,Delivery
+3112,Positive,Delivery
+3113,Positive,Delivery
+3114,Positive,Delivery
+3115,Positive,Others
+3116,Positive,Delivery
+3117,Positive,Delivery
+3118,Positive,Others
+3119,Positive,Delivery
+3120,Positive,Company
+3121,Positive,Others
+3122,Positive,Delivery
+3123,Positive,Delivery
+3124,Positive,Delivery
+3125,Positive,Delivery
+3126,Positive,Delivery
+3127,Positive,Company
+3128,Positive,Company
+3129,Positive,Others
+3130,Positive,Delivery
+3131,Positive,Delivery
+3132,Positive,Delivery
+3133,Positive,Delivery
+3134,Positive,Company
+3135,Positive,Delivery
+3136,Positive,Delivery
+3137,Positive,Company
+3138,Positive,Missing Items
+3139,Positive,Delivery
+3140,Positive,Delivery
+3141,Delivery,Positive
+3142,Positive,Delivery
+3143,Positive,Others
+3144,Positive,Others
+3145,Positive,Company
+3146,Positive,Company
+3147,Positive,Delivery
+3148,Positive,Company
+3149,Positive,Company
+3150,Positive,Delivery
+3151,Positive,Company
+3152,Positive,Delivery
+3153,Positive,Delivery
+3154,Positive,Delivery
+3155,Positive,Company
+3156,Positive,Others
+3157,Positive,Company
+3158,Positive,Company
+3159,Positive,Company
+3160,Positive,Company
+3161,Positive,Delivery
+3162,Positive,Delivery
+3163,Positive,Missing Items
+3164,Positive,Missing Items
+3165,Positive,Others
+3166,Positive,Others
+3167,Positive,Others
+3168,Positive,Delivery
+3169,Positive,Delivery
+3170,Positive,Others
+3171,Positive,Others
+3172,Positive,Others
+3173,Positive,Others
+3174,Positive,Others
+3175,Positive,Delivery
+3176,Positive,Delivery
+3177,Positive,Delivery
+3178,Positive,Company
+3179,Positive,Delivery
+3180,Positive,Others
+3181,Positive,Delivery
+3182,Positive,Others
+3183,Positive,Others
+3184,Positive,Others
+3185,Positive,Others
+3186,Positive,Delivery
+3187,Positive,Delivery
+3188,Positive,Others
+3189,Positive,Delivery
+3190,Positive,Others
+3191,Positive,Others
+3192,Positive,Company
+3193,Positive,Company
+3194,Delivery,Positive
+3195,Positive,Delivery
+3196,Positive,Delivery
+3197,Positive,Delivery
+3198,Positive,Delivery
+3199,Positive,Company
+3200,Positive,Delivery
+3201,Positive,Others
+3202,Positive,Others
+3203,Positive,Others
+3204,Positive,Others
+3205,Positive,Others
+3206,Positive,Others
+3207,Positive,Others
+3208,Positive,Others
+3209,Positive,Company
+3210,Positive,Company
+3211,Positive,Company
+3212,Positive,Others
+3213,Positive,Others
+3214,Positive,Others
+3215,Positive,Others
+3216,Positive,Others
+3217,Positive,Others
+3218,Positive,Others
+3219,Positive,Others
+3220,Positive,Others
+3221,Positive,Others
+3222,Positive,Others
+3223,Positive,Others
+3224,Positive,Others
+3225,Positive,Others
+3226,Positive,Delivery
+3227,Positive,Company
+3228,Positive,Delivery
+3229,Positive,Delivery
+3230,Positive,Delivery
+3231,Positive,Others
+3232,Positive,Others
+3233,Positive,Company
+3234,Positive,Company
+3235,Positive,Others
+3236,Positive,Company
+3237,Positive,Company
+3238,Positive,Delivery
+3239,Positive,Delivery
+3240,Positive,Company
+3241,Positive,Delivery
+3242,Positive,Company
+3243,Positive,Company
+3244,Positive,Others
+3245,Positive,Missing Items
+3246,Others,Positive
+3247,Others,Positive
+3248,Positive,Delivery
+3249,Positive,Company
+3250,Positive,Delivery
+3251,Delivery,Positive
+3252,Positive,Delivery
+3253,Delivery,Positive
+3254,Positive,Delivery
+3255,Positive,Delivery
+3256,Positive,Delivery
+3257,Positive,Delivery
+3258,Positive,Delivery
+3259,Positive,Delivery
+3260,Positive,Company
+3261,Positive,Company
+3262,Positive,Company
+3263,Positive,Others
+3264,Positive,Delivery
+3265,Positive,Company
+3266,Positive,Company
+3267,Positive,Delivery
+3268,Positive,Delivery
+3269,Positive,Delivery
+3270,Positive,Delivery
+3271,Positive,Delivery
+3272,Positive,Delivery
+3273,Positive,Delivery
+3274,Positive,Delivery
+3275,Positive,Delivery
+3276,Positive,Company
+3277,Positive,Others
+3278,Positive,Others
+3279,Positive,Others
+3280,Positive,Others
+3281,Positive,Others
+3282,Positive,Delivery
+3283,Positive,Others
+3284,Positive,Delivery
+3285,Positive,Others
+3286,Positive,Others
+3287,Positive,Others
+3288,Positive,Others
+3289,Positive,Delivery
+3290,Positive,Company
+3291,Positive,Delivery
+3292,Positive,Delivery
+3293,Positive,Others
+3294,Positive,Company
+3295,Positive,Company
+3296,Positive,Company
+3297,Positive,Others
+3298,Positive,Company
+3299,Positive,Others
+3300,Positive,Delivery
+3301,Positive,Company
+3302,Positive,Company
+3303,Positive,Delivery
+3304,Positive,Company
+3305,Positive,Others
+3306,Positive,Others
+3307,Delivery,Positive
+3308,Positive,Delivery
+3309,Positive,Company
+3310,Positive,Company
+3311,Positive,Delivery
+3312,Positive,Delivery
+3313,Positive,Delivery
+3314,Positive,Others
+3315,Delivery,Positive
+3316,Positive,Company
+3317,Positive,Delivery
+3318,Positive,Delivery
+3319,Positive,Delivery
+3320,Positive,Delivery
+3321,Positive,Delivery
+3322,Positive,Delivery
+3323,Positive,Delivery
+3324,Positive,Others
+3325,Positive,Others
+3326,Positive,Delivery
+3327,Positive,Delivery
+3328,Positive,Delivery
+3329,Positive,Delivery
+3330,Positive,Company
+3331,Positive,Delivery
+3332,Positive,Delivery
+3333,Positive,Others
+3334,Positive,Delivery
+3335,Positive,Delivery
+3336,Positive,Others
+3337,Positive,Others
+3338,Positive,Others
+3339,Positive,Others
+3340,Positive,Others
+3341,Positive,Others
+3342,Positive,Others
+3343,Positive,Others
+3344,Positive,Others
+3345,Positive,Delivery
+3346,Positive,Others
+3347,Positive,Others
+3348,Positive,Others
+3349,Positive,Others
+3350,Positive,Others
+3351,Positive,Others
+3352,Positive,Others
+3353,Positive,Others
+3354,Positive,Others
+3355,Positive,Others
+3356,Positive,Delivery
+3357,Positive,Delivery
+3358,Positive,Delivery
+3359,Positive,Delivery
+3360,Delivery,Positive
+3361,Positive,Delivery
+3362,Positive,Delivery
+3363,Positive,Delivery
+3364,Positive,Missing Items
+3365,Positive,Others
+3366,Positive,Delivery
+3367,Positive,Delivery
+3368,Positive,Company
+3369,Positive,Others
+3370,Positive,Company
+3371,Positive,Others
+3372,Positive,Delivery
+3373,Positive,Delivery
+3374,Delivery,Positive
+3375,Positive,Others
+3376,Positive,Delivery
+3377,Positive,Delivery
+3378,Positive,Delivery
+3379,Positive,Delivery
+3380,Positive,Company
+3381,Positive,Company
+3382,Positive,Delivery
+3383,Positive,Delivery
+3384,Positive,Company
+3385,Positive,Delivery
+3386,Positive,Missing Items
+3387,Positive,Others
+3388,Positive,Others
+3389,Positive,Delivery
+3390,Positive,Delivery
+3391,Positive,Delivery
+3392,Positive,Delivery
+3393,Positive,Company
+3394,Positive,Company
+3395,Positive,Company
+3396,Positive,Delivery
+3397,Positive,Delivery
+3398,Positive,Delivery
+3399,Positive,Company
+3400,Positive,Delivery
+3401,Positive,Delivery
+3402,Positive,Company
+3403,Positive,Company
+3404,Positive,Others
+3405,Positive,Company
+3406,Delivery,Positive
+3407,Positive,Company
+3408,Positive,Delivery
+3409,Positive,Company
+3410,Positive,Company
+3411,Positive,Company
+3412,Delivery,Deffect
+3413,Positive,Delivery
+3414,Positive,Delivery
+3415,Delivery,Positive
+3416,Positive,Others
+3417,Delivery,Positive
+3418,Delivery,Positive
+3419,Delivery,Positive
+3420,Delivery,Positive
+3421,Positive,Delivery
+3422,Positive,Delivery
+3423,Delivery,Positive
+3424,Positive,Delivery
+3425,Delivery,Positive
+3426,Positive,Company
+3427,Positive,Company
+3428,Delivery,Others
+3429,Positive,Delivery
+3430,Positive,Others
+3431,Positive,Delivery
+3432,Positive,Delivery
+3433,Positive,Others
+3434,Positive,Others
+3435,Positive,Delivery
+3436,Positive,Others
+3437,Positive,Company
+3438,Positive,Company
+3439,Positive,Company
+3440,Positive,Company
+3441,Positive,Company
+3442,Positive,Delivery
+3443,Positive,Company
+3444,Positive,Company
+3445,Positive,Delivery
+3446,Delivery,Positive
+3447,Positive,Company
+3448,Positive,Company
+3449,Positive,Company
+3450,Positive,Company
+3451,Positive,Company
+3452,Positive,Company
+3453,Positive,Company
+3454,Positive,Company
+3455,Positive,Others
+3456,Positive,Delivery
+3457,Positive,Delivery
+3458,Positive,Delivery
+3459,Positive,Delivery
+3460,Delivery,Positive
+3461,Positive,Delivery
+3462,Positive,Delivery
+3463,Positive,Delivery
+3464,Positive,Delivery
+3465,Positive,Delivery
+3466,Delivery,Positive
+3467,Delivery,Positive
+3468,Positive,Delivery
+3469,Positive,Delivery
+3470,Positive,Delivery
+3471,Positive,Delivery
+3472,Positive,Delivery
+3473,Positive,Delivery
+3474,Positive,Company
+3475,Delivery,Positive
+3476,Delivery,Positive
+3477,Delivery,Positive
+3478,Positive,Delivery
+3479,Positive,Delivery
+3480,Positive,Delivery
+3481,Positive,Delivery
+3482,Positive,Delivery
+3483,Positive,Others
+3484,Positive,Delivery
+3485,Positive,Delivery
+3486,Positive,Missing Items
+3487,Positive,Others
+3488,Positive,Delivery
+3489,Delivery,Positive
+3490,Delivery,Positive
+3491,Positive,Delivery
+3492,Positive,Delivery
+3493,Positive,Missing Items
+3494,Positive,Missing Items
+3495,Positive,Company
+3496,Positive,Company
+3497,Positive,Others
+3498,Positive,Company
+3499,Positive,Delivery
+3500,Positive,Others
+3501,Positive,Delivery
+3502,Positive,Company
+3503,Delivery,Positive
+3504,Positive,Delivery
+3505,Positive,Delivery
+3506,Delivery,Positive
+3507,Positive,Delivery
+3508,Positive,Delivery
+3509,Positive,Delivery
+3510,Positive,Delivery
+3511,Positive,Delivery
+3512,Positive,Delivery
+3513,Positive,Delivery
+3514,Positive,Delivery
+3515,Positive,Delivery
+3516,Positive,Delivery
+3517,Positive,Delivery
+3518,Positive,Delivery
+3519,Positive,Delivery
+3520,Positive,Delivery
+3521,Positive,Delivery
+3522,Positive,Delivery
+3523,Positive,Delivery
+3524,Positive,Delivery
+3525,Positive,Delivery
+3526,Positive,Delivery
+3527,Positive,Delivery
+3528,Positive,Delivery
+3529,Positive,Delivery
+3530,Positive,Delivery
+3531,Positive,Delivery
+3532,Positive,Delivery
+3533,Positive,Delivery
+3534,Positive,Delivery
+3535,Positive,Delivery
+3536,Positive,Delivery
+3537,Positive,Delivery
+3538,Positive,Delivery
+3539,Positive,Delivery
+3540,Positive,Delivery
+3541,Positive,Delivery
+3542,Positive,Delivery
+3543,Positive,Delivery
+3544,Positive,Delivery
+3545,Positive,Delivery
+3546,Positive,Delivery
+3547,Positive,Delivery
+3548,Positive,Delivery
+3549,Positive,Delivery
+3550,Positive,Delivery
+3551,Positive,Delivery
+3552,Positive,Delivery
+3553,Positive,Delivery
+3554,Positive,Delivery
+3555,Positive,Delivery
+3556,Positive,Delivery
+3557,Positive,Delivery
+3558,Positive,Delivery
+3559,Positive,Delivery
+3560,Positive,Delivery
+3561,Positive,Delivery
+3562,Positive,Delivery
+3563,Positive,Delivery
+3564,Positive,Delivery
+3565,Positive,Delivery
+3566,Positive,Delivery
+3567,Positive,Delivery
+3568,Positive,Delivery
+3569,Positive,Delivery
+3570,Positive,Delivery
+3571,Positive,Delivery
+3572,Positive,Delivery
+3573,Positive,Delivery
+3574,Positive,Delivery
+3575,Positive,Delivery
+3576,Positive,Delivery
+3577,Positive,Delivery
+3578,Positive,Delivery
+3579,Positive,Delivery
+3580,Positive,Delivery
+3581,Positive,Delivery
+3582,Positive,Delivery
+3583,Positive,Delivery
+3584,Positive,Delivery
+3585,Positive,Delivery
+3586,Positive,Delivery
+3587,Positive,Delivery
+3588,Positive,Delivery
+3589,Positive,Delivery
+3590,Positive,Delivery
+3591,Positive,Delivery
+3592,Positive,Delivery
+3593,Positive,Delivery
+3594,Positive,Delivery
+3595,Positive,Delivery
+3596,Positive,Delivery
+3597,Positive,Delivery
+3598,Positive,Delivery
+3599,Positive,Delivery
+3600,Positive,Delivery
+3601,Positive,Delivery
+3602,Positive,Delivery
+3603,Positive,Delivery
+3604,Positive,Delivery
+3605,Positive,Delivery
+3606,Positive,Delivery
+3607,Positive,Delivery
+3608,Positive,Delivery
+3609,Positive,Delivery
+3610,Positive,Delivery
+3611,Positive,Delivery
+3612,Positive,Delivery
+3613,Positive,Delivery
+3614,Positive,Delivery
+3615,Positive,Delivery
+3616,Positive,Delivery
+3617,Positive,Delivery
+3618,Positive,Delivery
+3619,Positive,Delivery
+3620,Positive,Delivery
+3621,Positive,Company
+3622,Positive,Company
+3623,Positive,Delivery
+3624,Missing Items,Positive
+3625,Delivery,Others
+3626,Positive,Missing Items
+3627,Positive,Delivery
+3628,Positive,Missing Items
+3629,Positive,Company
+3630,Positive,Delivery
+3631,Positive,Delivery
+3632,Delivery,Positive
+3633,Delivery,Positive
+3634,Delivery,Company
+3635,Delivery,Positive
+3636,Positive,Others
+3637,Delivery,Positive
+3638,Positive,Delivery
+3639,Positive,Delivery
+3640,Delivery,Positive
+3641,Positive,Company
+3642,Delivery,Positive
+3643,Others,Company
+3644,Delivery,Others
+3645,Positive,Wrong Item
+3646,Delivery,Positive
+3647,Missing Items,Others
+3648,Delivery,Wrong Item
+3649,Delivery,Others
+3650,Delivery,Missing Items
+3651,Positive,Others
+3652,Deffect,Positive
+3653,Delivery,Deffect
+3654,Delivery,Positive
+3655,Delivery,Positive
+3656,Missing Items,Deffect
+3657,Positive,Deffect
+3658,Wrong Item,Missing Items
+3659,Delivery,Missing Items
+3660,Missing Items,Wrong Item
+3661,Delivery,Positive
+3662,Missing Items,Wrong Item
+3663,Positive,Company
+3664,Delivery,Others
+3665,Delivery,Positive
+3666,Positive,Delivery
+3667,Positive,Company
+3668,Positive,Others
+3669,Delivery,Positive
+3670,Delivery,Positive
+3671,Positive,Others
+3672,Wrong Item,Delivery
+3673,Wrong Item,Missing Items
+3674,Wrong Item,Deffect
+3675,Deffect,Wrong Item
+3676,Wrong Item,Delivery
+3677,Company,Delivery
+3678,Missing Items,Delivery
+3679,Missing Items,Delivery
+3680,Delivery,Positive
+3681,Delivery,Positive
+3682,Others,Positive
+3683,Delivery,Positive
+3684,Delivery,Missing Items
+3685,Company,Delivery
+3686,Positive,Delivery
+3687,Positive,Others
+3688,Positive,Others
+3689,Positive,Others
+3690,Positive,Others
+3691,Delivery,Positive
+3692,Positive,Missing Items
+3693,Positive,Missing Items
+3694,Positive,Delivery
+3695,Delivery,Positive
+3696,Positive,Others
+3697,Positive,Missing Items
+3698,Positive,Others
+3699,Positive,Delivery
+3700,Delivery,Positive
+3701,Positive,Others
+3702,Positive,Others
+3703,Positive,Company
+3704,Positive,Others
+3705,Positive,Company
+3706,Positive,Company
+3707,Positive,Others
+3708,Positive,Delivery
+3709,Positive,Others
+3710,Positive,Others
+3711,Positive,Others
+3712,Positive,Others
+3713,Positive,Company
+3714,Positive,Company
+3715,Delivery,Positive
+3716,Delivery,Company
+3717,Positive,Others
+3718,Positive,Others
+3719,Company,Positive
+3720,Positive,Others
+3721,Delivery,Positive
+3722,Positive,Company
+3723,Company,Others
+3724,Delivery,Company
+3725,Positive,Delivery
+3726,Delivery,Positive
+3727,Delivery,Positive
+3728,Delivery,Positive
+3729,Delivery,Positive
+3730,Delivery,Positive
+3731,Positive,Others
+3732,Positive,Delivery
+3733,Positive,Company
+3734,Company,Positive
+3735,Positive,Company
+3736,Positive,Others
+3737,Positive,Company
+3738,Positive,Others
+3739,Missing Items,Positive
+3740,Positive,Delivery
+3741,Positive,Others
+3742,Positive,Others
+3743,Positive,Others
+3744,Positive,Others
+3745,Positive,Others
+3746,Positive,Others
+3747,Positive,Others
+3748,Positive,Others
+3749,Positive,Others
+3750,Positive,Others
+3751,Delivery,Others
+3752,Positive,Company
+3753,Positive,Company
+3754,Positive,Others
+3755,Deffect,Wrong Item
+3756,Positive,Company
+3757,Positive,Delivery
+3758,Delivery,Company
+3759,Delivery,Company
+3760,Missing Items,Delivery
+3761,Delivery,Missing Items
+3762,Delivery,Positive
+3763,Others,Wrong Item
+3764,Missing Items,Delivery
+3765,Delivery,Missing Items
+3766,Positive,Delivery
+3767,Delivery,Wrong Item
+3768,Delivery,Positive
+3769,Wrong Item,Missing Items
+3770,Delivery,Wrong Item
+3771,Missing Items,Delivery
+3772,Delivery,Positive
+3773,Delivery,Positive
+3774,Delivery,Missing Items
+3775,Positive,Delivery
+3776,Delivery,Positive
+3777,Positive,Delivery
+3778,Delivery,Missing Items
+3779,Wrong Item,Delivery
+3780,Wrong Item,Missing Items
+3781,Missing Items,Positive
+3782,Missing Items,Delivery
+3783,Missing Items,Wrong Item
+3784,Missing Items,Wrong Item
+3785,Delivery,Missing Items
+3786,Missing Items,Positive
+3787,Missing Items,Delivery
+3788,Missing Items,Delivery
+3789,Missing Items,Delivery
+3790,Positive,Company
+3791,Delivery,Missing Items
+3792,Missing Items,Deffect
+3793,Missing Items,Company
+3794,Delivery,Missing Items
+3795,Missing Items,Wrong Item
+3796,Company,Deffect
+3797,Positive,Company
+3798,Missing Items,Deffect
+3799,Company,Deffect
+3800,Missing Items,Wrong Item
+3801,Missing Items,Company
+3802,Positive,Others
+3803,Missing Items,Wrong Item
+3804,Wrong Item,Missing Items
+3805,Delivery,Missing Items
+3806,Delivery,Positive
+3807,Delivery,Wrong Item
+3808,Delivery,Wrong Item
+3809,Delivery,Positive
+3810,Delivery,Wrong Item
+3811,Delivery,Others
+3812,Delivery,Missing Items
+3813,Others,Missing Items
+3814,Delivery,Wrong Item
+3815,Delivery,Wrong Item
+3816,Missing Items,Wrong Item
+3817,Delivery,Deffect
+3818,Delivery,Positive
+3819,Delivery,Wrong Item
+3820,Delivery,Wrong Item
+3821,Wrong Item,Missing Items
+3822,Delivery,Positive
+3823,Wrong Item,Missing Items
+3824,Wrong Item,Missing Items
+3825,Delivery,Others
+3826,Delivery,Positive
+3827,Positive,Delivery
+3828,Missing Items,Delivery
+3829,Missing Items,Delivery
+3830,Missing Items,Company
+3831,Missing Items,Positive
+3832,Company,Wrong Item
+3833,Missing Items,Delivery
+3834,Missing Items,Wrong Item
+3835,Missing Items,Delivery
+3836,Missing Items,Delivery
+3837,Missing Items,Wrong Item
+3838,Missing Items,Positive
+3839,Missing Items,Delivery
+3840,Missing Items,Wrong Item
+3841,Missing Items,Delivery
+3842,Missing Items,Others
+3843,Missing Items,Deffect
+3844,Missing Items,Delivery
+3845,Missing Items,Deffect
+3846,Delivery,Missing Items
+3847,Delivery,Missing Items
+3848,Missing Items,Wrong Item
+3849,Missing Items,Wrong Item
+3850,Delivery,Missing Items
+3851,Missing Items,Wrong Item
+3852,Missing Items,Delivery
+3853,Missing Items,Delivery
+3854,Missing Items,Delivery
+3855,Missing Items,Wrong Item
+3856,Wrong Item,Missing Items
+3857,Wrong Item,Deffect
+3858,Delivery,Wrong Item
+3859,Missing Items,Delivery
+3860,Wrong Item,Company
+3861,Missing Items,Positive
+3862,Missing Items,Wrong Item
+3863,Missing Items,Delivery
+3864,Delivery,Positive
+3865,Missing Items,Delivery
+3866,Company,Positive
+3867,Delivery,Others
+3868,Positive,Others
+3869,Positive,Delivery
+3870,Company,Delivery
+3871,Wrong Item,Missing Items
+3872,Others,Deffect
+3873,Delivery,Deffect
+3874,Positive,Missing Items
+3875,Positive,Company
+3876,Positive,Company
+3877,Delivery,Positive
+3878,Company,Positive
+3879,Positive,Deffect
+3880,Positive,Company
+3881,Positive,Delivery
+3882,Positive,Missing Items
+3883,Positive,Others
+3884,Positive,Others
+3885,Delivery,Positive
+3886,Delivery,Positive
+3887,Delivery,Positive
+3888,Positive,Others
+3889,Positive,Others
+3890,Positive,Company
+3891,Positive,Company
+3892,Positive,Company
+3893,Positive,Company
+3894,Delivery,Positive
+3895,Positive,Others
+3896,Positive,Others
+3897,Positive,Others
+3898,Positive,Delivery
+3899,Positive,Others
+3900,Positive,Delivery
+3901,Delivery,Positive
+3902,Positive,Delivery
+3903,Positive,Others
+3904,Missing Items,Others
+3905,Missing Items,Others
+3906,Delivery,Missing Items
+3907,Missing Items,Others
+3908,Delivery,Missing Items
+3909,Company,Delivery
+3910,Missing Items,Wrong Item
+3911,Wrong Item,Company
+3912,Delivery,Missing Items
+3913,Deffect,Wrong Item
+3914,Missing Items,Deffect
+3915,Missing Items,Wrong Item
+3916,Delivery,Missing Items
+3917,Delivery,Company
+3918,Delivery,Others
+3919,Wrong Item,Positive
+3920,Positive,Delivery
+3921,Positive,Company
+3922,Positive,Delivery
+3923,Wrong Item,Deffect
+3924,Delivery,Missing Items
+3925,Wrong Item,Deffect
+3926,Missing Items,Deffect
+3927,Wrong Item,Deffect
+3928,Wrong Item,Delivery
+3929,Delivery,Missing Items
+3930,Delivery,Missing Items
+3931,Others,Missing Items
+3932,Delivery,Missing Items
+3933,Missing Items,Wrong Item
+3934,Missing Items,Company
+3935,Positive,Others
+3936,Delivery,Missing Items
+3937,Delivery,Missing Items
+3938,Deffect,Missing Items
+3939,Positive,Company
+3940,Positive,Company
+3941,Wrong Item,Missing Items
+3942,Wrong Item,Missing Items
+3943,Positive,Delivery
+3944,Positive,Others
+3945,Delivery,Positive
+3946,Positive,Missing Items
+3947,Company,Wrong Item
+3948,Delivery,Missing Items
+3949,Wrong Item,Missing Items
+3950,Wrong Item,Company
+3951,Missing Items,Delivery
+3952,Delivery,Missing Items
+3953,Delivery,Missing Items
+3954,Delivery,Others
+3955,Delivery,Wrong Item
+3956,Wrong Item,Delivery
+3957,Missing Items,Delivery
+3958,Missing Items,Wrong Item
+3959,Wrong Item,Deffect
+3960,Delivery,Positive
+3961,Company,Delivery
+3962,Delivery,Missing Items
+3963,Delivery,Wrong Item
+3964,Others,Delivery
+3965,Missing Items,Delivery
+3966,Company,Others
+3967,Missing Items,Wrong Item
+3968,Missing Items,Deffect
+3969,Wrong Item,Others
+3970,Wrong Item,Delivery
+3971,Missing Items,Delivery
+3972,Wrong Item,Deffect
+3973,Delivery,Wrong Item
+3974,Delivery,Positive
+3975,Wrong Item,Missing Items
+3976,Delivery,Wrong Item
+3977,Positive,Deffect
+3978,Wrong Item,Delivery
+3979,Wrong Item,Deffect
+3980,Delivery,Positive
+3981,Delivery,Others
+3982,Deffect,Wrong Item
+3983,Delivery,Missing Items
+3984,Delivery,Wrong Item
+3985,Delivery,Wrong Item
+3986,Delivery,Missing Items
+3987,Delivery,Positive
+3988,Wrong Item,Delivery
+3989,Delivery,Positive
+3990,Missing Items,Wrong Item
+3991,Missing Items,Delivery
+3992,Delivery,Missing Items
+3993,Delivery,Missing Items
+3994,Delivery,Missing Items
+3995,Missing Items,Delivery
+3996,Missing Items,Others
+3997,Wrong Item,Delivery
+3998,Deffect,Delivery
+3999,Positive,Delivery
+4000,Wrong Item,Missing Items
+4001,Delivery,Company
+4002,Missing Items,Delivery
+4003,Delivery,Positive
+4004,Delivery,Wrong Item
+4005,Missing Items,Delivery
+4006,Delivery,Missing Items
+4007,Delivery,Positive
+4008,Missing Items,Wrong Item
+4009,Delivery,Missing Items
+4010,Others,Delivery
+4011,Wrong Item,Missing Items
+4012,Delivery,Missing Items
+4013,Missing Items,Delivery
+4014,Delivery,Wrong Item
+4015,Wrong Item,Positive
+4016,Wrong Item,Missing Items
+4017,Missing Items,Wrong Item
+4018,Missing Items,Delivery
+4019,Others,Delivery
+4020,Company,Positive
+4021,Delivery,Deffect
+4022,Delivery,Wrong Item
+4023,Missing Items,Wrong Item
+4024,Delivery,Others
+4025,Others,Deffect
+4026,Deffect,Company
+4027,Deffect,Wrong Item
+4028,Deffect,Company
+4029,Others,Missing Items
+4030,Wrong Item,Deffect
+4031,Company,Missing Items
+4032,Wrong Item,Delivery
+4033,Delivery,Company
+4034,Positive,Delivery
+4035,Positive,Missing Items
+4036,Positive,Company
+4037,Delivery,Positive
+4038,Delivery,Positive
+4039,Positive,Missing Items
+4040,Positive,Missing Items
+4041,Positive,Delivery
+4042,Positive,Delivery
+4043,Positive,Delivery
+4044,Positive,Delivery
+4045,Positive,Company
+4046,Positive,Delivery
+4047,Positive,Others
+4048,Positive,Deffect
+4049,Positive,Missing Items
+4050,Positive,Delivery
+4051,Delivery,Positive
+4052,Positive,Delivery
+4053,Missing Items,Delivery
+4054,Missing Items,Positive
+4055,Missing Items,Delivery
+4056,Missing Items,Delivery
+4057,Missing Items,Delivery
+4058,Missing Items,Positive
+4059,Missing Items,Company
+4060,Positive,Missing Items
+4061,Missing Items,Deffect
+4062,Positive,Others
+4063,Delivery,Missing Items
+4064,Delivery,Wrong Item
+4065,Missing Items,Delivery
+4066,Positive,Company
+4067,Delivery,Positive
+4068,Positive,Others
+4069,Delivery,Positive
+4070,Positive,Company
+4071,Positive,Others
+4072,Positive,Delivery
+4073,Delivery,Others
+4074,Positive,Delivery
+4075,Missing Items,Deffect
+4076,Others,Company
+4077,Positive,Others
+4078,Delivery,Others
+4079,Positive,Company
+4080,Delivery,Positive
+4081,Deffect,Delivery
+4082,Positive,Delivery
+4083,Positive,Missing Items
+4084,Delivery,Missing Items
+4085,Positive,Others
+4086,Positive,Deffect
+4087,Delivery,Positive
+4088,Missing Items,Company
+4089,Missing Items,Delivery
+4090,Delivery,Missing Items
+4091,Positive,Others
+4092,Positive,Others
+4093,Delivery,Positive
+4094,Positive,Others
+4095,Positive,Delivery
+4096,Delivery,Positive
+4097,Positive,Delivery
+4098,Delivery,Positive
+4099,Positive,Others
+4100,Positive,Delivery
+4101,Positive,Delivery
+4102,Delivery,Positive
+4103,Positive,Delivery
+4104,Delivery,Positive
+4105,Positive,Others
+4106,Positive,Delivery
+4107,Positive,Others
+4108,Positive,Others
+4109,Positive,Others
+4110,Delivery,Positive
+4111,Positive,Delivery
+4112,Positive,Others
+4113,Positive,Others
+4114,Missing Items,Delivery
+4115,Positive,Others
+4116,Wrong Item,Deffect
+4117,Missing Items,Delivery
+4118,Missing Items,Wrong Item
+4119,Missing Items,Wrong Item
+4120,Missing Items,Delivery
+4121,Missing Items,Delivery
+4122,Missing Items,Wrong Item
+4123,Company,Deffect
+4124,Missing Items,Wrong Item
+4125,Positive,Delivery
+4126,Missing Items,Delivery
+4127,Positive,Others
+4128,Positive,Delivery
+4129,Delivery,Missing Items
+4130,Missing Items,Wrong Item
+4131,Deffect,Wrong Item
+4132,Missing Items,Company
+4133,Missing Items,Wrong Item
+4134,Wrong Item,Missing Items
+4135,Positive,Deffect
+4136,Delivery,Deffect
+4137,Delivery,Missing Items
+4138,Delivery,Company
+4139,Positive,Delivery
+4140,Delivery,Missing Items
+4141,Delivery,Deffect
+4142,Delivery,Others
+4143,Positive,Delivery
+4144,Delivery,Positive
+4145,Positive,Company
+4146,Positive,Missing Items
+4147,Delivery,Positive
+4148,Wrong Item,Missing Items
+4149,Missing Items,Wrong Item
+4150,Missing Items,Others
+4151,Company,Others
+4152,Delivery,Wrong Item
+4153,Delivery,Wrong Item
+4154,Wrong Item,Others
+4155,Wrong Item,Missing Items
+4156,Missing Items,Delivery
+4157,Missing Items,Delivery
+4158,Deffect,Company
+4159,Deffect,Company
+4160,Missing Items,Wrong Item
+4161,Delivery,Wrong Item
+4162,Wrong Item,Delivery
+4163,Wrong Item,Company
+4164,Missing Items,Delivery
+4165,Positive,Others
+4166,Positive,Company
+4167,Positive,Company
+4168,Delivery,Company
+4169,Others,Delivery
+4170,Delivery,Missing Items
+4171,Missing Items,Deffect
+4172,Wrong Item,Missing Items
+4173,Wrong Item,Positive
+4174,Missing Items,Delivery
+4175,Delivery,Missing Items
+4176,Missing Items,Company
+4177,Positive,Others
+4178,Positive,Others
+4179,Positive,Others
+4180,Positive,Others
+4181,Positive,Company
+4182,Company,Positive
+4183,Positive,Delivery
+4184,Positive,Others
+4185,Positive,Delivery
+4186,Positive,Delivery
+4187,Positive,Company
+4188,Positive,Company
+4189,Positive,Company
+4190,Positive,Delivery
+4191,Positive,Delivery
+4192,Positive,Delivery
+4193,Positive,Delivery
+4194,Positive,Delivery
+4195,Positive,Delivery
+4196,Positive,Delivery
+4197,Positive,Company
+4198,Positive,Company
+4199,Wrong Item,Missing Items
+4200,Positive,Delivery
+4201,Delivery,Positive
+4202,Delivery,Positive
+4203,Positive,Delivery
+4204,Positive,Company
+4205,Positive,Company
+4206,Positive,Delivery
+4207,Positive,Company
+4208,Delivery,Positive
+4209,Positive,Others
+4210,Positive,Others
+4211,Positive,Others
+4212,Positive,Others
+4213,Positive,Others
+4214,Positive,Others
+4215,Positive,Delivery
+4216,Positive,Delivery
+4217,Positive,Others
+4218,Positive,Delivery
+4219,Delivery,Positive
+4220,Delivery,Positive
+4221,Positive,Company
+4222,Positive,Delivery
+4223,Positive,Delivery
+4224,Positive,Delivery
+4225,Positive,Delivery
+4226,Positive,Delivery
+4227,Positive,Delivery
+4228,Positive,Company
+4229,Positive,Delivery
+4230,Positive,Company
+4231,Positive,Delivery
+4232,Positive,Delivery
+4233,Positive,Company
+4234,Positive,Company
+4235,Positive,Company
+4236,Positive,Company
+4237,Delivery,Positive
+4238,Positive,Others
+4239,Positive,Others
+4240,Positive,Others
+4241,Positive,Others
+4242,Positive,Others
+4243,Positive,Others
+4244,Positive,Others
+4245,Positive,Others
+4246,Positive,Delivery
+4247,Missing Items,Wrong Item
+4248,Missing Items,Wrong Item
+4249,Delivery,Missing Items
+4250,Wrong Item,Delivery
+4251,Missing Items,Wrong Item
+4252,Missing Items,Delivery
+4253,Positive,Company
+4254,Delivery,Others
+4255,Delivery,Positive
+4256,Missing Items,Wrong Item
+4257,Missing Items,Positive
+4258,Delivery,Missing Items
+4259,Positive,Missing Items
+4260,Positive,Delivery
+4261,Missing Items,Wrong Item
+4262,Missing Items,Positive
+4263,Missing Items,Positive
+4264,Missing Items,Others
+4265,Missing Items,Positive
+4266,Positive,Delivery
+4267,Positive,Delivery
+4268,Positive,Company
+4269,Positive,Delivery
+4270,Positive,Others
+4271,Positive,Others
+4272,Positive,Others
+4273,Positive,Delivery
+4274,Positive,Others
+4275,Positive,Delivery
+4276,Positive,Company
+4277,Positive,Delivery
+4278,Positive,Others
+4279,Positive,Delivery
+4280,Positive,Company
+4281,Positive,Company
+4282,Positive,Company
+4283,Positive,Delivery
+4284,Positive,Company
+4285,Positive,Delivery
+4286,Positive,Delivery
+4287,Positive,Company
+4288,Positive,Delivery
+4289,Positive,Delivery
+4290,Positive,Delivery
+4291,Positive,Delivery
+4292,Positive,Others
+4293,Positive,Delivery
+4294,Positive,Delivery
+4295,Positive,Delivery
+4296,Delivery,Positive
+4297,Positive,Delivery
+4298,Positive,Delivery
+4299,Positive,Company
+4300,Positive,Delivery
+4301,Positive,Company
+4302,Positive,Delivery
+4303,Positive,Others
+4304,Positive,Delivery
+4305,Positive,Company
+4306,Positive,Delivery
+4307,Positive,Delivery
+4308,Positive,Others
+4309,Positive,Company
+4310,Positive,Company
+4311,Delivery,Missing Items
+4312,Deffect,Company
+4313,Missing Items,Delivery
+4314,Deffect,Wrong Item
+4315,Deffect,Company
+4316,Positive,Company
+4317,Positive,Delivery
+4318,Positive,Company
+4319,Missing Items,Wrong Item
+4320,Delivery,Missing Items
+4321,Missing Items,Delivery
+4322,Positive,Company
+4323,Positive,Others
+4324,Missing Items,Wrong Item
+4325,Missing Items,Wrong Item
+4326,Missing Items,Delivery
+4327,Missing Items,Delivery
+4328,Company,Missing Items
+4329,Missing Items,Delivery
+4330,Missing Items,Wrong Item
+4331,Missing Items,Deffect
+4332,Deffect,Missing Items
+4333,Missing Items,Company
+4334,Positive,Delivery
+4335,Positive,Others
+4336,Delivery,Positive
+4337,Missing Items,Delivery
+4338,Missing Items,Delivery
+4339,Wrong Item,Missing Items
+4340,Others,Deffect
+4341,Wrong Item,Deffect
+4342,Delivery,Deffect
+4343,Delivery,Company
+4344,Missing Items,Wrong Item
+4345,Deffect,Missing Items
+4346,Missing Items,Wrong Item
+4347,Wrong Item,Missing Items
+4348,Others,Deffect
+4349,Missing Items,Delivery
+4350,Positive,Missing Items
+4351,Positive,Others
+4352,Positive,Others
+4353,Missing Items,Deffect
+4354,Missing Items,Wrong Item
+4355,Missing Items,Wrong Item
+4356,Missing Items,Company
+4357,Positive,Delivery
+4358,Delivery,Missing Items
+4359,Missing Items,Delivery
+4360,Positive,Delivery
+4361,Delivery,Positive
+4362,Delivery,Others
+4363,Positive,Others
+4364,Delivery,Missing Items
+4365,Missing Items,Delivery
+4366,Missing Items,Deffect
+4367,Delivery,Positive
+4368,Delivery,Positive
+4369,Deffect,Others
+4370,Delivery,Others
+4371,Missing Items,Delivery
+4372,Deffect,Delivery
+4373,Missing Items,Delivery
+4374,Missing Items,Deffect
+4375,Positive,Missing Items
+4376,Positive,Missing Items
+4377,Missing Items,Delivery
+4378,Missing Items,Delivery
+4379,Delivery,Missing Items
+4380,Wrong Item,Missing Items
+4381,Company,Deffect
+4382,Positive,Delivery
+4383,Delivery,Others
+4384,Missing Items,Deffect
+4385,Wrong Item,Missing Items
+4386,Positive,Delivery
+4387,Missing Items,Wrong Item
+4388,Delivery,Wrong Item
+4389,Wrong Item,Delivery
+4390,Positive,Delivery
+4391,Missing Items,Deffect
+4392,Wrong Item,Deffect
+4393,Wrong Item,Missing Items
+4394,Wrong Item,Missing Items
+4395,Delivery,Positive
+4396,Deffect,Company
+4397,Delivery,Missing Items
+4398,Missing Items,Deffect
+4399,Missing Items,Delivery
+4400,Others,Positive
+4401,Positive,Missing Items
+4402,Delivery,Deffect
+4403,Wrong Item,Company
+4404,Missing Items,Deffect
+4405,Deffect,Wrong Item
+4406,Delivery,Missing Items
+4407,Missing Items,Delivery
+4408,Positive,Delivery
+4409,Positive,Delivery
+4410,Wrong Item,Missing Items
+4411,Missing Items,Delivery
+4412,Missing Items,Company
+4413,Missing Items,Deffect
+4414,Company,Others
+4415,Company,Others
+4416,Missing Items,Wrong Item
+4417,Missing Items,Delivery
+4418,Missing Items,Delivery
+4419,Missing Items,Wrong Item
+4420,Delivery,Positive
+4421,Delivery,Positive
+4422,Missing Items,Deffect
+4423,Company,Delivery
+4424,Missing Items,Delivery
+4425,Wrong Item,Company
+4426,Missing Items,Positive
+4427,Missing Items,Others
+4428,Wrong Item,Deffect
+4429,Delivery,Missing Items
+4430,Positive,Missing Items
+4431,Positive,Missing Items
+4432,Positive,Missing Items
+4433,Positive,Company
+4434,Missing Items,Delivery
+4435,Positive,Delivery
+4436,Positive,Delivery
+4437,Delivery,Missing Items
+4438,Delivery,Missing Items
+4439,Deffect,Missing Items
+4440,Missing Items,Others
+4441,Missing Items,Positive
+4442,Delivery,Missing Items
+4443,Delivery,Wrong Item
+4444,Wrong Item,Missing Items
+4445,Positive,Delivery
+4446,Positive,Delivery
+4447,Company,Missing Items
+4448,Missing Items,Delivery
+4449,Delivery,Positive
+4450,Missing Items,Positive
+4451,Positive,Delivery
+4452,Positive,Delivery
+4453,Delivery,Missing Items
+4454,Positive,Delivery
+4455,Missing Items,Deffect
+4456,Delivery,Positive
+4457,Delivery,Missing Items
+4458,Delivery,Missing Items
+4459,Missing Items,Deffect
+4460,Delivery,Missing Items
+4461,Wrong Item,Delivery
+4462,Wrong Item,Missing Items
+4463,Others,Company
+4464,Delivery,Positive
+4465,Delivery,Missing Items
+4466,Positive,Others
+4467,Positive,Missing Items
+4468,Delivery,Missing Items
+4469,Missing Items,Positive
+4470,Missing Items,Deffect
+4471,Missing Items,Delivery
+4472,Wrong Item,Deffect
+4473,Deffect,Wrong Item
+4474,Wrong Item,Company
+4475,Delivery,Positive
+4476,Delivery,Missing Items
+4477,Delivery,Positive
+4478,Delivery,Missing Items
+4479,Delivery,Positive
+4480,Delivery,Missing Items
+4481,Delivery,Others
+4482,Missing Items,Positive
+4483,Missing Items,Positive
+4484,Missing Items,Positive
+4485,Delivery,Positive
+4486,Missing Items,Delivery
+4487,Missing Items,Delivery
+4488,Delivery,Deffect
+4489,Delivery,Deffect
+4490,Delivery,Missing Items
+4491,Delivery,Missing Items
+4492,Delivery,Positive
+4493,Delivery,Positive
+4494,Missing Items,Wrong Item
+4495,Positive,Company
+4496,Positive,Delivery
+4497,Positive,Company
+4498,Positive,Company
+4499,Deffect,Missing Items
+4500,Delivery,Missing Items
+4501,Missing Items,Others
+4502,Missing Items,Wrong Item
+4503,Missing Items,Others
+4504,Positive,Deffect
+4505,Missing Items,Others
+4506,Deffect,Wrong Item
+4507,Positive,Company
+4508,Others,Company
+4509,Positive,Missing Items
+4510,Positive,Company
+4511,Positive,Delivery
+4512,Positive,Others
+4513,Missing Items,Deffect
+4514,Positive,Delivery
+4515,Positive,Missing Items
+4516,Wrong Item,Missing Items
+4517,Delivery,Others
+4518,Missing Items,Positive
+4519,Positive,Company
+4520,Others,Missing Items
+4521,Delivery,Wrong Item
+4522,Positive,Others
+4523,Delivery,Positive
+4524,Company,Missing Items
+4525,Missing Items,Delivery
+4526,Positive,Missing Items
+4527,Delivery,Positive
+4528,Wrong Item,Missing Items
+4529,Delivery,Positive
+4530,Delivery,Deffect
+4531,Company,Others
+4532,Delivery,Positive
+4533,Delivery,Missing Items
+4534,Delivery,Missing Items
+4535,Missing Items,Delivery
+4536,Missing Items,Others
+4537,Delivery,Wrong Item
+4538,Positive,Delivery
+4539,Delivery,Missing Items
+4540,Delivery,Positive
+4541,Delivery,Missing Items
+4542,Company,Delivery
+4543,Missing Items,Wrong Item
+4544,Positive,Others
+4545,Positive,Others
+4546,Positive,Others
+4547,Positive,Missing Items
+4548,Positive,Delivery
+4549,Positive,Delivery
+4550,Delivery,Positive
+4551,Delivery,Positive
+4552,Company,Positive
+4553,Positive,Delivery
+4554,Missing Items,Delivery
+4555,Positive,Company
+4556,Missing Items,Delivery
+4557,Missing Items,Positive
+4558,Positive,Company
+4559,Delivery,Positive
+4560,Company,Deffect
+4561,Positive,Company
+4562,Positive,Company
+4563,Positive,Delivery
+4564,Missing Items,Company
+4565,Positive,Delivery
+4566,Delivery,Positive
+4567,Positive,Company
+4568,Missing Items,Wrong Item
+4569,Missing Items,Wrong Item
+4570,Missing Items,Wrong Item
+4571,Missing Items,Wrong Item
+4572,Delivery,Positive
+4573,Company,Positive
+4574,Delivery,Missing Items
+4575,Delivery,Positive
+4576,Deffect,Wrong Item
+4577,Positive,Delivery
+4578,Positive,Others
+4579,Delivery,Positive
+4580,Positive,Company
+4581,Missing Items,Wrong Item
+4582,Positive,Others
+4583,Wrong Item,Deffect
+4584,Positive,Delivery
+4585,Positive,Missing Items
+4586,Delivery,Positive
+4587,Missing Items,Wrong Item
+4588,Missing Items,Wrong Item
+4589,Delivery,Missing Items
+4590,Positive,Deffect
+4591,Wrong Item,Positive
+4592,Missing Items,Delivery
+4593,Company,Missing Items
+4594,Positive,Others
+4595,Wrong Item,Missing Items
+4596,Positive,Others
+4597,Delivery,Missing Items
+4598,Others,Deffect
+4599,Positive,Others
+4600,Wrong Item,Missing Items
+4601,Positive,Company
+4602,Missing Items,Delivery
+4603,Others,Positive
+4604,Missing Items,Company
+4605,Wrong Item,Missing Items
+4606,Positive,Others
+4607,Others,Positive
+4608,Positive,Company
+4609,Positive,Company
+4610,Wrong Item,Delivery
+4611,Positive,Company
+4612,Positive,Delivery
+4613,Company,Positive
+4614,Company,Deffect
+4615,Delivery,Company
+4616,Delivery,Wrong Item
+4617,Missing Items,Wrong Item
+4618,Positive,Others
+4619,Positive,Company
+4620,Delivery,Missing Items
+4621,Company,Wrong Item
+4622,Company,Missing Items
+4623,Positive,Company
+4624,Missing Items,Wrong Item
+4625,Wrong Item,Missing Items
+4626,Missing Items,Positive
+4627,Positive,Delivery
+4628,Positive,Delivery
+4629,Missing Items,Delivery
+4630,Delivery,Others
+4631,Missing Items,Company
+4632,Missing Items,Wrong Item
+4633,Deffect,Missing Items
+4634,Delivery,Positive
+4635,Company,Missing Items
+4636,Delivery,Deffect
+4637,Delivery,Others
+4638,Positive,Missing Items
+4639,Delivery,Missing Items
+4640,Missing Items,Deffect
+4641,Delivery,Missing Items
+4642,Company,Others
+4643,Delivery,Positive
+4644,Missing Items,Wrong Item
+4645,Delivery,Positive
+4646,Missing Items,Positive
+4647,Delivery,Company
+4648,Missing Items,Delivery
+4649,Delivery,Deffect
+4650,Delivery,Missing Items
+4651,Delivery,Missing Items
+4652,Positive,Missing Items
+4653,Delivery,Deffect
+4654,Missing Items,Wrong Item
+4655,Delivery,Missing Items
+4656,Positive,Delivery
+4657,Missing Items,Wrong Item
+4658,Delivery,Deffect
+4659,Deffect,Delivery
+4660,Delivery,Missing Items
+4661,Wrong Item,Missing Items
+4662,Wrong Item,Delivery
+4663,Delivery,Missing Items
+4664,Missing Items,Delivery
+4665,Company,Delivery
+4666,Positive,Others
+4667,Positive,Others
+4668,Positive,Others
+4669,Wrong Item,Positive
+4670,Wrong Item,Deffect
+4671,Wrong Item,Deffect
+4672,Positive,Others
+4673,Wrong Item,Delivery
+4674,Wrong Item,Deffect
+4675,Positive,Others
+4676,Delivery,Missing Items
+4677,Delivery,Deffect
+4678,Wrong Item,Deffect
+4679,Deffect,Wrong Item
+4680,Delivery,Wrong Item
+4681,Positive,Wrong Item
+4682,Missing Items,Others
+4683,Positive,Others
+4684,Missing Items,Wrong Item
+4685,Wrong Item,Others
+4686,Wrong Item,Deffect
+4687,Wrong Item,Positive
+4688,Wrong Item,Missing Items
+4689,Missing Items,Wrong Item
+4690,Positive,Missing Items
+4691,Wrong Item,Positive
+4692,Wrong Item,Missing Items
+4693,Wrong Item,Deffect
+4694,Positive,Others
+4695,Company,Missing Items
+4696,Positive,Others
+4697,Positive,Delivery
+4698,Delivery,Others
+4699,Delivery,Company
+4700,Delivery,Positive
+4701,Missing Items,Deffect
+4702,Delivery,Positive
+4703,Missing Items,Wrong Item
+4704,Missing Items,Delivery
+4705,Delivery,Positive
+4706,Positive,Delivery
+4707,Delivery,Positive
+4708,Others,Delivery
+4709,Delivery,Missing Items
+4710,Delivery,Missing Items
+4711,Delivery,Positive
+4712,Delivery,Missing Items
+4713,Positive,Delivery
+4714,Wrong Item,Missing Items
+4715,Deffect,Wrong Item
+4716,Positive,Wrong Item
+4717,Delivery,Missing Items
+4718,Missing Items,Delivery
+4719,Delivery,Missing Items
+4720,Missing Items,Delivery
+4721,Missing Items,Wrong Item
+4722,Wrong Item,Positive
+4723,Delivery,Missing Items
+4724,Delivery,Missing Items
+4725,Wrong Item,Missing Items
+4726,Missing Items,Deffect
+4727,Delivery,Missing Items
+4728,Delivery,Missing Items
+4729,Delivery,Positive
+4730,Delivery,Missing Items
+4731,Positive,Delivery
+4732,Deffect,Delivery
+4733,Positive,Others
+4734,Positive,Delivery
+4735,Positive,Others
+4736,Positive,Delivery
+4737,Positive,Delivery
+4738,Positive,Missing Items
+4739,Delivery,Wrong Item
+4740,Delivery,Positive
+4741,Missing Items,Wrong Item
+4742,Delivery,Missing Items
+4743,Positive,Company
+4744,Positive,Company
+4745,Delivery,Missing Items
+4746,Delivery,Positive
+4747,Delivery,Wrong Item
+4748,Delivery,Positive
+4749,Delivery,Positive
+4750,Delivery,Positive
+4751,Delivery,Positive
+4752,Delivery,Wrong Item
+4753,Delivery,Positive
+4754,Delivery,Positive
+4755,Delivery,Positive
+4756,Delivery,Positive
+4757,Delivery,Positive
+4758,Delivery,Positive
+4759,Delivery,Positive
+4760,Delivery,Positive
+4761,Delivery,Missing Items
+4762,Delivery,Positive
+4763,Delivery,Positive
+4764,Delivery,Positive
+4765,Missing Items,Wrong Item
+4766,Missing Items,Delivery
+4767,Company,Delivery
+4768,Delivery,Wrong Item
+4769,Deffect,Wrong Item
+4770,Missing Items,Deffect
+4771,Wrong Item,Delivery
+4772,Delivery,Wrong Item
+4773,Delivery,Missing Items
+4774,Delivery,Missing Items
+4775,Delivery,Deffect
+4776,Delivery,Wrong Item
+4777,Wrong Item,Delivery
+4778,Delivery,Deffect
+4779,Delivery,Wrong Item
+4780,Delivery,Deffect
+4781,Delivery,Positive
+4782,Delivery,Missing Items
+4783,Positive,Delivery
+4784,Others,Deffect
+4785,Wrong Item,Missing Items
+4786,Missing Items,Deffect
+4787,Wrong Item,Others
+4788,Delivery,Positive
+4789,Missing Items,Delivery
+4790,Others,Positive
+4791,Delivery,Missing Items
+4792,Deffect,Missing Items
+4793,Company,Positive
+4794,Wrong Item,Missing Items
+4795,Positive,Delivery
+4796,Positive,Delivery
+4797,Delivery,Positive
+4798,Delivery,Positive
+4799,Delivery,Missing Items
+4800,Delivery,Positive
+4801,Delivery,Others
+4802,Company,Wrong Item
+4803,Company,Delivery
+4804,Company,Missing Items
+4805,Company,Wrong Item
+4806,Missing Items,Deffect
+4807,Delivery,Positive
+4808,Delivery,Positive
+4809,Delivery,Positive
+4810,Delivery,Positive
+4811,Delivery,Positive
+4812,Delivery,Positive
+4813,Delivery,Positive
+4814,Delivery,Missing Items
+4815,Delivery,Positive
+4816,Delivery,Positive
+4817,Delivery,Positive
+4818,Delivery,Positive
+4819,Delivery,Positive
+4820,Delivery,Positive
+4821,Delivery,Positive
+4822,Delivery,Positive
+4823,Positive,Delivery
+4824,Delivery,Positive
+4825,Delivery,Positive
+4826,Delivery,Positive
+4827,Delivery,Positive
+4828,Delivery,Positive
+4829,Delivery,Positive
+4830,Delivery,Positive
+4831,Delivery,Positive
+4832,Delivery,Positive
+4833,Delivery,Positive
+4834,Delivery,Positive
+4835,Delivery,Positive
+4836,Delivery,Positive
+4837,Delivery,Positive
+4838,Delivery,Positive
+4839,Delivery,Positive
+4840,Delivery,Positive
+4841,Delivery,Positive
+4842,Delivery,Positive
+4843,Delivery,Positive
+4844,Delivery,Positive
+4845,Delivery,Positive
+4846,Delivery,Positive
+4847,Delivery,Positive
+4848,Delivery,Positive
+4849,Delivery,Positive
+4850,Delivery,Positive
+4851,Delivery,Positive
+4852,Delivery,Positive
+4853,Delivery,Positive
+4854,Delivery,Positive
+4855,Delivery,Positive
+4856,Delivery,Positive
+4857,Delivery,Positive
+4858,Delivery,Positive
+4859,Delivery,Positive
+4860,Delivery,Positive
+4861,Delivery,Positive
+4862,Delivery,Positive
+4863,Delivery,Positive
+4864,Delivery,Positive
+4865,Delivery,Positive
+4866,Delivery,Positive
+4867,Delivery,Positive
+4868,Delivery,Deffect
+4869,Delivery,Deffect
+4870,Delivery,Positive
+4871,Delivery,Positive
+4872,Delivery,Positive
+4873,Delivery,Positive
+4874,Delivery,Positive
+4875,Delivery,Positive
+4876,Delivery,Positive
+4877,Delivery,Missing Items
+4878,Delivery,Positive
+4879,Delivery,Positive
+4880,Delivery,Positive
+4881,Delivery,Positive
+4882,Delivery,Positive
+4883,Delivery,Positive
+4884,Delivery,Positive
+4885,Delivery,Positive
+4886,Delivery,Positive
+4887,Delivery,Positive
+4888,Delivery,Deffect
+4889,Delivery,Positive
+4890,Delivery,Positive
+4891,Delivery,Positive
+4892,Delivery,Others
+4893,Delivery,Positive
+4894,Delivery,Positive
+4895,Delivery,Positive
+4896,Delivery,Positive
+4897,Delivery,Positive
+4898,Delivery,Positive
+4899,Delivery,Positive
+4900,Delivery,Positive
+4901,Delivery,Positive
+4902,Delivery,Positive
+4903,Delivery,Positive
+4904,Delivery,Positive
+4905,Delivery,Positive
+4906,Delivery,Positive
+4907,Delivery,Positive
+4908,Delivery,Positive
+4909,Delivery,Positive
+4910,Delivery,Positive
+4911,Delivery,Positive
+4912,Delivery,Positive
+4913,Delivery,Positive
+4914,Delivery,Positive
+4915,Delivery,Positive
+4916,Delivery,Positive
+4917,Delivery,Positive
+4918,Delivery,Positive
+4919,Delivery,Positive
+4920,Delivery,Positive
+4921,Missing Items,Delivery
+4922,Delivery,Positive
+4923,Delivery,Positive
+4924,Delivery,Positive
+4925,Delivery,Deffect
+4926,Delivery,Positive
+4927,Delivery,Positive
+4928,Delivery,Deffect
+4929,Delivery,Positive
+4930,Delivery,Positive
+4931,Delivery,Positive
+4932,Delivery,Positive
+4933,Delivery,Positive
+4934,Delivery,Positive
+4935,Delivery,Positive
+4936,Delivery,Positive
+4937,Positive,Delivery
+4938,Delivery,Positive
+4939,Positive,Delivery
+4940,Delivery,Positive
+4941,Delivery,Positive
+4942,Delivery,Positive
+4943,Delivery,Positive
+4944,Delivery,Positive
+4945,Delivery,Positive
+4946,Delivery,Positive
+4947,Delivery,Positive
+4948,Delivery,Positive
+4949,Delivery,Positive
+4950,Delivery,Positive
+4951,Delivery,Positive
+4952,Delivery,Positive
+4953,Delivery,Positive
+4954,Positive,Delivery
+4955,Delivery,Positive
+4956,Delivery,Positive
+4957,Delivery,Positive
+4958,Delivery,Positive
+4959,Delivery,Positive
+4960,Delivery,Positive
+4961,Delivery,Positive
+4962,Delivery,Positive
+4963,Delivery,Positive
+4964,Delivery,Positive
+4965,Positive,Delivery
+4966,Delivery,Positive
+4967,Positive,Delivery
+4968,Delivery,Positive
+4969,Delivery,Positive
+4970,Delivery,Positive
+4971,Delivery,Positive
+4972,Delivery,Positive
+4973,Delivery,Positive
+4974,Positive,Delivery
+4975,Positive,Delivery
+4976,Delivery,Positive
+4977,Positive,Delivery
+4978,Delivery,Positive
+4979,Delivery,Positive
+4980,Delivery,Positive
+4981,Delivery,Positive
+4982,Delivery,Positive
+4983,Delivery,Positive
+4984,Delivery,Positive
+4985,Delivery,Positive
+4986,Delivery,Positive
+4987,Delivery,Positive
+4988,Delivery,Positive
+4989,Delivery,Positive
+4990,Delivery,Positive
+4991,Delivery,Missing Items
+4992,Delivery,Positive
+4993,Delivery,Positive
+4994,Delivery,Positive
+4995,Delivery,Positive
+4996,Delivery,Others
+4997,Delivery,Positive
+4998,Delivery,Others
+4999,Positive,Delivery
