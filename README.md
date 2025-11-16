@@ -1,3 +1,7 @@
+<img width="1059" height="593" alt="image" src="https://github.com/user-attachments/assets/b92f616b-0082-486a-aa78-1ad7e0271f9e" />
+
+
+
 # Customer Satisfaction Analysis 
 
 This project analyzes customer satisfaction trends in Brazil using Olist’s e-commerce review dataset.
