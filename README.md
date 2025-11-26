@@ -40,26 +40,26 @@ All visualizations and dashboards were created in Tableau.
 	•	Extraction and translation of all “Highly Unsatisfied” review comments
 
 
-# Analytical Areas (Team Breakdown)
+# Analytical Areas
 
-## 1. Overall Satisfaction Analysis (Noor)
+## 1. Overall Satisfaction Analysis
  •	Customer Satisfaction Overview (KPIs) – includes total reviews, percentage of highly satisfied customers, percentage of highly unsatisfied customers, and the overall average review score.
 	•	Customer Satisfaction Distribution – classifies reviews into Highly Unsatisfied, Satisfied, and Others based on score levels.
 	•	Average Customer Review Score Over Time – tracks changes in the average review score across the selected years.
 
 
-## 2. Category Performance (S.Ahmed)
+## 2. Category Performance
 	•	Total Reviews per Category – shows the distribution of customer reviews across all product categories.
 	•	Percentage of Highly Unsatisfied per Category – highlights which categories have the highest share of 1-star reviews.
 	•	Highly Unsatisfied Comment Classification – categorizes the main reasons behind negative reviews.
 	•	Platform-Related Comments Over Time – tracks platform-specific issues mentioned by customers across different time periods.
 
-## 3. Delivery Performance (Maryam)
+## 3. Delivery Performance
 	•	Mostly Delivered Categories – shows which product categories have the highest proportion of successfully delivered orders.
 	•	Highly Unsatisfied Delivery Spam – highlights categories where delivery issues lead to the most 1-star reviews.
 	•	Highly Satisfied Delivery Spam – displays the categories where timely and successful deliveries result in 5-star reviews.
 
-## 4. Seller Behavior (A.Majeed)
+## 4. Seller Behavior
 	•	Satisfaction variations across sellers
 	•	Identification of low-performing sellers
 	•	Analysis of seller issues such as late shipping, incorrect items, and lack of response
